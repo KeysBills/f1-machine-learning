@@ -1,0 +1,1156 @@
+session_key,meeting_key,year,country_code,meeting_name,session_name,session_type,date_start,compound,c_code
+7765,1141,2023,BRN,Bahrain Grand Prix,Practice 1,Practice,2023-03-03,HARD,C1
+7765,1141,2023,BRN,Bahrain Grand Prix,Practice 1,Practice,2023-03-03,MEDIUM,C2
+7765,1141,2023,BRN,Bahrain Grand Prix,Practice 1,Practice,2023-03-03,SOFT,C3
+7766,1141,2023,BRN,Bahrain Grand Prix,Practice 2,Practice,2023-03-03,HARD,C1
+7766,1141,2023,BRN,Bahrain Grand Prix,Practice 2,Practice,2023-03-03,MEDIUM,C2
+7766,1141,2023,BRN,Bahrain Grand Prix,Practice 2,Practice,2023-03-03,SOFT,C3
+7767,1141,2023,BRN,Bahrain Grand Prix,Practice 3,Practice,2023-03-04,HARD,C1
+7767,1141,2023,BRN,Bahrain Grand Prix,Practice 3,Practice,2023-03-04,MEDIUM,C2
+7767,1141,2023,BRN,Bahrain Grand Prix,Practice 3,Practice,2023-03-04,SOFT,C3
+7768,1141,2023,BRN,Bahrain Grand Prix,Qualifying,Qualifying,2023-03-04,HARD,C1
+7768,1141,2023,BRN,Bahrain Grand Prix,Qualifying,Qualifying,2023-03-04,MEDIUM,C2
+7768,1141,2023,BRN,Bahrain Grand Prix,Qualifying,Qualifying,2023-03-04,SOFT,C3
+7953,1141,2023,BRN,Bahrain Grand Prix,Race,Race,2023-03-05,HARD,C1
+7953,1141,2023,BRN,Bahrain Grand Prix,Race,Race,2023-03-05,MEDIUM,C2
+7953,1141,2023,BRN,Bahrain Grand Prix,Race,Race,2023-03-05,SOFT,C3
+7772,1142,2023,KSA,Saudi Arabian Grand Prix,Practice 1,Practice,2023-03-17,HARD,C2
+7772,1142,2023,KSA,Saudi Arabian Grand Prix,Practice 1,Practice,2023-03-17,MEDIUM,C3
+7772,1142,2023,KSA,Saudi Arabian Grand Prix,Practice 1,Practice,2023-03-17,SOFT,C4
+7773,1142,2023,KSA,Saudi Arabian Grand Prix,Practice 2,Practice,2023-03-17,HARD,C2
+7773,1142,2023,KSA,Saudi Arabian Grand Prix,Practice 2,Practice,2023-03-17,MEDIUM,C3
+7773,1142,2023,KSA,Saudi Arabian Grand Prix,Practice 2,Practice,2023-03-17,SOFT,C4
+7774,1142,2023,KSA,Saudi Arabian Grand Prix,Practice 3,Practice,2023-03-18,HARD,C2
+7774,1142,2023,KSA,Saudi Arabian Grand Prix,Practice 3,Practice,2023-03-18,MEDIUM,C3
+7774,1142,2023,KSA,Saudi Arabian Grand Prix,Practice 3,Practice,2023-03-18,SOFT,C4
+7775,1142,2023,KSA,Saudi Arabian Grand Prix,Qualifying,Qualifying,2023-03-18,HARD,C2
+7775,1142,2023,KSA,Saudi Arabian Grand Prix,Qualifying,Qualifying,2023-03-18,MEDIUM,C3
+7775,1142,2023,KSA,Saudi Arabian Grand Prix,Qualifying,Qualifying,2023-03-18,SOFT,C4
+7779,1142,2023,KSA,Saudi Arabian Grand Prix,Race,Race,2023-03-19,HARD,C2
+7779,1142,2023,KSA,Saudi Arabian Grand Prix,Race,Race,2023-03-19,MEDIUM,C3
+7779,1142,2023,KSA,Saudi Arabian Grand Prix,Race,Race,2023-03-19,SOFT,C4
+7780,1143,2023,AUS,Australian Grand Prix,Practice 1,Practice,2023-03-31,HARD,C2
+7780,1143,2023,AUS,Australian Grand Prix,Practice 1,Practice,2023-03-31,MEDIUM,C3
+7780,1143,2023,AUS,Australian Grand Prix,Practice 1,Practice,2023-03-31,SOFT,C4
+7781,1143,2023,AUS,Australian Grand Prix,Practice 2,Practice,2023-03-31,HARD,C2
+7781,1143,2023,AUS,Australian Grand Prix,Practice 2,Practice,2023-03-31,MEDIUM,C3
+7781,1143,2023,AUS,Australian Grand Prix,Practice 2,Practice,2023-03-31,SOFT,C4
+7782,1143,2023,AUS,Australian Grand Prix,Practice 3,Practice,2023-04-01,HARD,C2
+7782,1143,2023,AUS,Australian Grand Prix,Practice 3,Practice,2023-04-01,MEDIUM,C3
+7782,1143,2023,AUS,Australian Grand Prix,Practice 3,Practice,2023-04-01,SOFT,C4
+7783,1143,2023,AUS,Australian Grand Prix,Qualifying,Qualifying,2023-04-01,HARD,C2
+7783,1143,2023,AUS,Australian Grand Prix,Qualifying,Qualifying,2023-04-01,MEDIUM,C3
+7783,1143,2023,AUS,Australian Grand Prix,Qualifying,Qualifying,2023-04-01,SOFT,C4
+7787,1143,2023,AUS,Australian Grand Prix,Race,Race,2023-04-02,HARD,C2
+7787,1143,2023,AUS,Australian Grand Prix,Race,Race,2023-04-02,MEDIUM,C3
+7787,1143,2023,AUS,Australian Grand Prix,Race,Race,2023-04-02,SOFT,C4
+9063,1207,2023,AZE,Azerbaijan Grand Prix,Practice 1,Practice,2023-04-28,HARD,C3
+9063,1207,2023,AZE,Azerbaijan Grand Prix,Practice 1,Practice,2023-04-28,MEDIUM,C4
+9063,1207,2023,AZE,Azerbaijan Grand Prix,Practice 1,Practice,2023-04-28,SOFT,C5
+9064,1207,2023,AZE,Azerbaijan Grand Prix,Qualifying,Qualifying,2023-04-28,HARD,C3
+9064,1207,2023,AZE,Azerbaijan Grand Prix,Qualifying,Qualifying,2023-04-28,MEDIUM,C4
+9064,1207,2023,AZE,Azerbaijan Grand Prix,Qualifying,Qualifying,2023-04-28,SOFT,C5
+9278,1207,2023,AZE,Azerbaijan Grand Prix,Sprint Qualifying,Qualifying,2023-04-29,HARD,C3
+9278,1207,2023,AZE,Azerbaijan Grand Prix,Sprint Qualifying,Qualifying,2023-04-29,MEDIUM,C4
+9278,1207,2023,AZE,Azerbaijan Grand Prix,Sprint Qualifying,Qualifying,2023-04-29,SOFT,C5
+9069,1207,2023,AZE,Azerbaijan Grand Prix,Sprint,Race,2023-04-29,HARD,C3
+9069,1207,2023,AZE,Azerbaijan Grand Prix,Sprint,Race,2023-04-29,MEDIUM,C4
+9069,1207,2023,AZE,Azerbaijan Grand Prix,Sprint,Race,2023-04-29,SOFT,C5
+9070,1207,2023,AZE,Azerbaijan Grand Prix,Race,Race,2023-04-30,HARD,C3
+9070,1207,2023,AZE,Azerbaijan Grand Prix,Race,Race,2023-04-30,MEDIUM,C4
+9070,1207,2023,AZE,Azerbaijan Grand Prix,Race,Race,2023-04-30,SOFT,C5
+9071,1208,2023,USA,Miami Grand Prix,Practice 1,Practice,2023-05-05,HARD,C2
+9071,1208,2023,USA,Miami Grand Prix,Practice 1,Practice,2023-05-05,MEDIUM,C3
+9071,1208,2023,USA,Miami Grand Prix,Practice 1,Practice,2023-05-05,SOFT,C4
+9072,1208,2023,USA,Miami Grand Prix,Practice 2,Practice,2023-05-05,HARD,C2
+9072,1208,2023,USA,Miami Grand Prix,Practice 2,Practice,2023-05-05,MEDIUM,C3
+9072,1208,2023,USA,Miami Grand Prix,Practice 2,Practice,2023-05-05,SOFT,C4
+9073,1208,2023,USA,Miami Grand Prix,Practice 3,Practice,2023-05-06,HARD,C2
+9073,1208,2023,USA,Miami Grand Prix,Practice 3,Practice,2023-05-06,MEDIUM,C3
+9073,1208,2023,USA,Miami Grand Prix,Practice 3,Practice,2023-05-06,SOFT,C4
+9074,1208,2023,USA,Miami Grand Prix,Qualifying,Qualifying,2023-05-06,HARD,C2
+9074,1208,2023,USA,Miami Grand Prix,Qualifying,Qualifying,2023-05-06,MEDIUM,C3
+9074,1208,2023,USA,Miami Grand Prix,Qualifying,Qualifying,2023-05-06,SOFT,C4
+9078,1208,2023,USA,Miami Grand Prix,Race,Race,2023-05-07,HARD,C2
+9078,1208,2023,USA,Miami Grand Prix,Race,Race,2023-05-07,MEDIUM,C3
+9078,1208,2023,USA,Miami Grand Prix,Race,Race,2023-05-07,SOFT,C4
+9087,1210,2023,MON,Monaco Grand Prix,Practice 1,Practice,2023-05-26,HARD,C3
+9087,1210,2023,MON,Monaco Grand Prix,Practice 1,Practice,2023-05-26,MEDIUM,C4
+9087,1210,2023,MON,Monaco Grand Prix,Practice 1,Practice,2023-05-26,SOFT,C5
+9088,1210,2023,MON,Monaco Grand Prix,Practice 2,Practice,2023-05-26,HARD,C3
+9088,1210,2023,MON,Monaco Grand Prix,Practice 2,Practice,2023-05-26,MEDIUM,C4
+9088,1210,2023,MON,Monaco Grand Prix,Practice 2,Practice,2023-05-26,SOFT,C5
+9089,1210,2023,MON,Monaco Grand Prix,Practice 3,Practice,2023-05-27,HARD,C3
+9089,1210,2023,MON,Monaco Grand Prix,Practice 3,Practice,2023-05-27,MEDIUM,C4
+9089,1210,2023,MON,Monaco Grand Prix,Practice 3,Practice,2023-05-27,SOFT,C5
+9090,1210,2023,MON,Monaco Grand Prix,Qualifying,Qualifying,2023-05-27,HARD,C3
+9090,1210,2023,MON,Monaco Grand Prix,Qualifying,Qualifying,2023-05-27,MEDIUM,C4
+9090,1210,2023,MON,Monaco Grand Prix,Qualifying,Qualifying,2023-05-27,SOFT,C5
+9094,1210,2023,MON,Monaco Grand Prix,Race,Race,2023-05-28,HARD,C3
+9094,1210,2023,MON,Monaco Grand Prix,Race,Race,2023-05-28,MEDIUM,C4
+9094,1210,2023,MON,Monaco Grand Prix,Race,Race,2023-05-28,SOFT,C5
+9095,1211,2023,ESP,Spanish Grand Prix,Practice 1,Practice,2023-06-02,HARD,C1
+9095,1211,2023,ESP,Spanish Grand Prix,Practice 1,Practice,2023-06-02,MEDIUM,C2
+9095,1211,2023,ESP,Spanish Grand Prix,Practice 1,Practice,2023-06-02,SOFT,C3
+9096,1211,2023,ESP,Spanish Grand Prix,Practice 2,Practice,2023-06-02,HARD,C1
+9096,1211,2023,ESP,Spanish Grand Prix,Practice 2,Practice,2023-06-02,MEDIUM,C2
+9096,1211,2023,ESP,Spanish Grand Prix,Practice 2,Practice,2023-06-02,SOFT,C3
+9097,1211,2023,ESP,Spanish Grand Prix,Practice 3,Practice,2023-06-03,HARD,C1
+9097,1211,2023,ESP,Spanish Grand Prix,Practice 3,Practice,2023-06-03,MEDIUM,C2
+9097,1211,2023,ESP,Spanish Grand Prix,Practice 3,Practice,2023-06-03,SOFT,C3
+9098,1211,2023,ESP,Spanish Grand Prix,Qualifying,Qualifying,2023-06-03,HARD,C1
+9098,1211,2023,ESP,Spanish Grand Prix,Qualifying,Qualifying,2023-06-03,MEDIUM,C2
+9098,1211,2023,ESP,Spanish Grand Prix,Qualifying,Qualifying,2023-06-03,SOFT,C3
+9102,1211,2023,ESP,Spanish Grand Prix,Race,Race,2023-06-04,HARD,C1
+9102,1211,2023,ESP,Spanish Grand Prix,Race,Race,2023-06-04,MEDIUM,C2
+9102,1211,2023,ESP,Spanish Grand Prix,Race,Race,2023-06-04,SOFT,C3
+9103,1212,2023,CAN,Canadian Grand Prix,Practice 1,Practice,2023-06-16,HARD,C3
+9103,1212,2023,CAN,Canadian Grand Prix,Practice 1,Practice,2023-06-16,MEDIUM,C4
+9103,1212,2023,CAN,Canadian Grand Prix,Practice 1,Practice,2023-06-16,SOFT,C5
+9104,1212,2023,CAN,Canadian Grand Prix,Practice 2,Practice,2023-06-16,HARD,C3
+9104,1212,2023,CAN,Canadian Grand Prix,Practice 2,Practice,2023-06-16,MEDIUM,C4
+9104,1212,2023,CAN,Canadian Grand Prix,Practice 2,Practice,2023-06-16,SOFT,C5
+9105,1212,2023,CAN,Canadian Grand Prix,Practice 3,Practice,2023-06-17,HARD,C3
+9105,1212,2023,CAN,Canadian Grand Prix,Practice 3,Practice,2023-06-17,MEDIUM,C4
+9105,1212,2023,CAN,Canadian Grand Prix,Practice 3,Practice,2023-06-17,SOFT,C5
+9106,1212,2023,CAN,Canadian Grand Prix,Qualifying,Qualifying,2023-06-17,HARD,C3
+9106,1212,2023,CAN,Canadian Grand Prix,Qualifying,Qualifying,2023-06-17,MEDIUM,C4
+9106,1212,2023,CAN,Canadian Grand Prix,Qualifying,Qualifying,2023-06-17,SOFT,C5
+9110,1212,2023,CAN,Canadian Grand Prix,Race,Race,2023-06-18,HARD,C3
+9110,1212,2023,CAN,Canadian Grand Prix,Race,Race,2023-06-18,MEDIUM,C4
+9110,1212,2023,CAN,Canadian Grand Prix,Race,Race,2023-06-18,SOFT,C5
+9111,1213,2023,AUT,Austrian Grand Prix,Practice 1,Practice,2023-06-30,HARD,C3
+9111,1213,2023,AUT,Austrian Grand Prix,Practice 1,Practice,2023-06-30,MEDIUM,C4
+9111,1213,2023,AUT,Austrian Grand Prix,Practice 1,Practice,2023-06-30,SOFT,C5
+9112,1213,2023,AUT,Austrian Grand Prix,Qualifying,Qualifying,2023-06-30,HARD,C3
+9112,1213,2023,AUT,Austrian Grand Prix,Qualifying,Qualifying,2023-06-30,MEDIUM,C4
+9112,1213,2023,AUT,Austrian Grand Prix,Qualifying,Qualifying,2023-06-30,SOFT,C5
+9282,1213,2023,AUT,Austrian Grand Prix,Sprint Qualifying,Qualifying,2023-07-01,HARD,C3
+9282,1213,2023,AUT,Austrian Grand Prix,Sprint Qualifying,Qualifying,2023-07-01,MEDIUM,C4
+9282,1213,2023,AUT,Austrian Grand Prix,Sprint Qualifying,Qualifying,2023-07-01,SOFT,C5
+9117,1213,2023,AUT,Austrian Grand Prix,Sprint,Race,2023-07-01,HARD,C3
+9117,1213,2023,AUT,Austrian Grand Prix,Sprint,Race,2023-07-01,MEDIUM,C4
+9117,1213,2023,AUT,Austrian Grand Prix,Sprint,Race,2023-07-01,SOFT,C5
+9118,1213,2023,AUT,Austrian Grand Prix,Race,Race,2023-07-02,HARD,C3
+9118,1213,2023,AUT,Austrian Grand Prix,Race,Race,2023-07-02,MEDIUM,C4
+9118,1213,2023,AUT,Austrian Grand Prix,Race,Race,2023-07-02,SOFT,C5
+9119,1214,2023,GBR,British Grand Prix,Practice 1,Practice,2023-07-07,HARD,C1
+9119,1214,2023,GBR,British Grand Prix,Practice 1,Practice,2023-07-07,MEDIUM,C2
+9119,1214,2023,GBR,British Grand Prix,Practice 1,Practice,2023-07-07,SOFT,C3
+9120,1214,2023,GBR,British Grand Prix,Practice 2,Practice,2023-07-07,HARD,C1
+9120,1214,2023,GBR,British Grand Prix,Practice 2,Practice,2023-07-07,MEDIUM,C2
+9120,1214,2023,GBR,British Grand Prix,Practice 2,Practice,2023-07-07,SOFT,C3
+9121,1214,2023,GBR,British Grand Prix,Practice 3,Practice,2023-07-08,HARD,C1
+9121,1214,2023,GBR,British Grand Prix,Practice 3,Practice,2023-07-08,MEDIUM,C2
+9121,1214,2023,GBR,British Grand Prix,Practice 3,Practice,2023-07-08,SOFT,C3
+9122,1214,2023,GBR,British Grand Prix,Qualifying,Qualifying,2023-07-08,HARD,C1
+9122,1214,2023,GBR,British Grand Prix,Qualifying,Qualifying,2023-07-08,MEDIUM,C2
+9122,1214,2023,GBR,British Grand Prix,Qualifying,Qualifying,2023-07-08,SOFT,C3
+9126,1214,2023,GBR,British Grand Prix,Race,Race,2023-07-09,HARD,C1
+9126,1214,2023,GBR,British Grand Prix,Race,Race,2023-07-09,MEDIUM,C2
+9126,1214,2023,GBR,British Grand Prix,Race,Race,2023-07-09,SOFT,C3
+9223,1215,2023,HUN,Hungarian Grand Prix,Practice 1,Practice,2023-07-21,HARD,C3
+9223,1215,2023,HUN,Hungarian Grand Prix,Practice 1,Practice,2023-07-21,MEDIUM,C4
+9223,1215,2023,HUN,Hungarian Grand Prix,Practice 1,Practice,2023-07-21,SOFT,C5
+9127,1215,2023,HUN,Hungarian Grand Prix,Practice 2,Practice,2023-07-21,HARD,C3
+9127,1215,2023,HUN,Hungarian Grand Prix,Practice 2,Practice,2023-07-21,MEDIUM,C4
+9127,1215,2023,HUN,Hungarian Grand Prix,Practice 2,Practice,2023-07-21,SOFT,C5
+9128,1215,2023,HUN,Hungarian Grand Prix,Practice 3,Practice,2023-07-22,HARD,C3
+9128,1215,2023,HUN,Hungarian Grand Prix,Practice 3,Practice,2023-07-22,MEDIUM,C4
+9128,1215,2023,HUN,Hungarian Grand Prix,Practice 3,Practice,2023-07-22,SOFT,C5
+9129,1215,2023,HUN,Hungarian Grand Prix,Qualifying,Qualifying,2023-07-22,HARD,C3
+9129,1215,2023,HUN,Hungarian Grand Prix,Qualifying,Qualifying,2023-07-22,MEDIUM,C4
+9129,1215,2023,HUN,Hungarian Grand Prix,Qualifying,Qualifying,2023-07-22,SOFT,C5
+9133,1215,2023,HUN,Hungarian Grand Prix,Race,Race,2023-07-23,HARD,C3
+9133,1215,2023,HUN,Hungarian Grand Prix,Race,Race,2023-07-23,MEDIUM,C4
+9133,1215,2023,HUN,Hungarian Grand Prix,Race,Race,2023-07-23,SOFT,C5
+9134,1216,2023,BEL,Belgian Grand Prix,Practice 1,Practice,2023-07-28,HARD,C2
+9134,1216,2023,BEL,Belgian Grand Prix,Practice 1,Practice,2023-07-28,MEDIUM,C3
+9134,1216,2023,BEL,Belgian Grand Prix,Practice 1,Practice,2023-07-28,SOFT,C4
+9135,1216,2023,BEL,Belgian Grand Prix,Qualifying,Qualifying,2023-07-28,HARD,C2
+9135,1216,2023,BEL,Belgian Grand Prix,Qualifying,Qualifying,2023-07-28,MEDIUM,C3
+9135,1216,2023,BEL,Belgian Grand Prix,Qualifying,Qualifying,2023-07-28,SOFT,C4
+9286,1216,2023,BEL,Belgian Grand Prix,Sprint Qualifying,Qualifying,2023-07-29,HARD,C2
+9286,1216,2023,BEL,Belgian Grand Prix,Sprint Qualifying,Qualifying,2023-07-29,MEDIUM,C3
+9286,1216,2023,BEL,Belgian Grand Prix,Sprint Qualifying,Qualifying,2023-07-29,SOFT,C4
+9140,1216,2023,BEL,Belgian Grand Prix,Sprint,Race,2023-07-29,HARD,C2
+9140,1216,2023,BEL,Belgian Grand Prix,Sprint,Race,2023-07-29,MEDIUM,C3
+9140,1216,2023,BEL,Belgian Grand Prix,Sprint,Race,2023-07-29,SOFT,C4
+9141,1216,2023,BEL,Belgian Grand Prix,Race,Race,2023-07-30,HARD,C2
+9141,1216,2023,BEL,Belgian Grand Prix,Race,Race,2023-07-30,MEDIUM,C3
+9141,1216,2023,BEL,Belgian Grand Prix,Race,Race,2023-07-30,SOFT,C4
+9142,1217,2023,NED,Dutch Grand Prix,Practice 1,Practice,2023-08-25,HARD,C1
+9142,1217,2023,NED,Dutch Grand Prix,Practice 1,Practice,2023-08-25,MEDIUM,C2
+9142,1217,2023,NED,Dutch Grand Prix,Practice 1,Practice,2023-08-25,SOFT,C3
+9143,1217,2023,NED,Dutch Grand Prix,Practice 2,Practice,2023-08-25,HARD,C1
+9143,1217,2023,NED,Dutch Grand Prix,Practice 2,Practice,2023-08-25,MEDIUM,C2
+9143,1217,2023,NED,Dutch Grand Prix,Practice 2,Practice,2023-08-25,SOFT,C3
+9144,1217,2023,NED,Dutch Grand Prix,Practice 3,Practice,2023-08-26,HARD,C1
+9144,1217,2023,NED,Dutch Grand Prix,Practice 3,Practice,2023-08-26,MEDIUM,C2
+9144,1217,2023,NED,Dutch Grand Prix,Practice 3,Practice,2023-08-26,SOFT,C3
+9145,1217,2023,NED,Dutch Grand Prix,Qualifying,Qualifying,2023-08-26,HARD,C1
+9145,1217,2023,NED,Dutch Grand Prix,Qualifying,Qualifying,2023-08-26,MEDIUM,C2
+9145,1217,2023,NED,Dutch Grand Prix,Qualifying,Qualifying,2023-08-26,SOFT,C3
+9149,1217,2023,NED,Dutch Grand Prix,Race,Race,2023-08-27,HARD,C1
+9149,1217,2023,NED,Dutch Grand Prix,Race,Race,2023-08-27,MEDIUM,C2
+9149,1217,2023,NED,Dutch Grand Prix,Race,Race,2023-08-27,SOFT,C3
+9150,1218,2023,ITA,Italian Grand Prix,Practice 1,Practice,2023-09-01,HARD,C3
+9150,1218,2023,ITA,Italian Grand Prix,Practice 1,Practice,2023-09-01,MEDIUM,C4
+9150,1218,2023,ITA,Italian Grand Prix,Practice 1,Practice,2023-09-01,SOFT,C5
+9151,1218,2023,ITA,Italian Grand Prix,Practice 2,Practice,2023-09-01,HARD,C3
+9151,1218,2023,ITA,Italian Grand Prix,Practice 2,Practice,2023-09-01,MEDIUM,C4
+9151,1218,2023,ITA,Italian Grand Prix,Practice 2,Practice,2023-09-01,SOFT,C5
+9152,1218,2023,ITA,Italian Grand Prix,Practice 3,Practice,2023-09-02,HARD,C3
+9152,1218,2023,ITA,Italian Grand Prix,Practice 3,Practice,2023-09-02,MEDIUM,C4
+9152,1218,2023,ITA,Italian Grand Prix,Practice 3,Practice,2023-09-02,SOFT,C5
+9153,1218,2023,ITA,Italian Grand Prix,Qualifying,Qualifying,2023-09-02,HARD,C3
+9153,1218,2023,ITA,Italian Grand Prix,Qualifying,Qualifying,2023-09-02,MEDIUM,C4
+9153,1218,2023,ITA,Italian Grand Prix,Qualifying,Qualifying,2023-09-02,SOFT,C5
+9157,1218,2023,ITA,Italian Grand Prix,Race,Race,2023-09-03,HARD,C3
+9157,1218,2023,ITA,Italian Grand Prix,Race,Race,2023-09-03,MEDIUM,C4
+9157,1218,2023,ITA,Italian Grand Prix,Race,Race,2023-09-03,SOFT,C5
+9158,1219,2023,SGP,Singapore Grand Prix,Practice 1,Practice,2023-09-15,HARD,C3
+9158,1219,2023,SGP,Singapore Grand Prix,Practice 1,Practice,2023-09-15,MEDIUM,C4
+9158,1219,2023,SGP,Singapore Grand Prix,Practice 1,Practice,2023-09-15,SOFT,C5
+9159,1219,2023,SGP,Singapore Grand Prix,Practice 2,Practice,2023-09-15,HARD,C3
+9159,1219,2023,SGP,Singapore Grand Prix,Practice 2,Practice,2023-09-15,MEDIUM,C4
+9159,1219,2023,SGP,Singapore Grand Prix,Practice 2,Practice,2023-09-15,SOFT,C5
+9160,1219,2023,SGP,Singapore Grand Prix,Practice 3,Practice,2023-09-16,HARD,C3
+9160,1219,2023,SGP,Singapore Grand Prix,Practice 3,Practice,2023-09-16,MEDIUM,C4
+9160,1219,2023,SGP,Singapore Grand Prix,Practice 3,Practice,2023-09-16,SOFT,C5
+9161,1219,2023,SGP,Singapore Grand Prix,Qualifying,Qualifying,2023-09-16,HARD,C3
+9161,1219,2023,SGP,Singapore Grand Prix,Qualifying,Qualifying,2023-09-16,MEDIUM,C4
+9161,1219,2023,SGP,Singapore Grand Prix,Qualifying,Qualifying,2023-09-16,SOFT,C5
+9165,1219,2023,SGP,Singapore Grand Prix,Race,Race,2023-09-17,HARD,C3
+9165,1219,2023,SGP,Singapore Grand Prix,Race,Race,2023-09-17,MEDIUM,C4
+9165,1219,2023,SGP,Singapore Grand Prix,Race,Race,2023-09-17,SOFT,C5
+9166,1220,2023,JPN,Japanese Grand Prix,Practice 1,Practice,2023-09-22,HARD,C1
+9166,1220,2023,JPN,Japanese Grand Prix,Practice 1,Practice,2023-09-22,MEDIUM,C2
+9166,1220,2023,JPN,Japanese Grand Prix,Practice 1,Practice,2023-09-22,SOFT,C3
+9167,1220,2023,JPN,Japanese Grand Prix,Practice 2,Practice,2023-09-22,HARD,C1
+9167,1220,2023,JPN,Japanese Grand Prix,Practice 2,Practice,2023-09-22,MEDIUM,C2
+9167,1220,2023,JPN,Japanese Grand Prix,Practice 2,Practice,2023-09-22,SOFT,C3
+9168,1220,2023,JPN,Japanese Grand Prix,Practice 3,Practice,2023-09-23,HARD,C1
+9168,1220,2023,JPN,Japanese Grand Prix,Practice 3,Practice,2023-09-23,MEDIUM,C2
+9168,1220,2023,JPN,Japanese Grand Prix,Practice 3,Practice,2023-09-23,SOFT,C3
+9169,1220,2023,JPN,Japanese Grand Prix,Qualifying,Qualifying,2023-09-23,HARD,C1
+9169,1220,2023,JPN,Japanese Grand Prix,Qualifying,Qualifying,2023-09-23,MEDIUM,C2
+9169,1220,2023,JPN,Japanese Grand Prix,Qualifying,Qualifying,2023-09-23,SOFT,C3
+9173,1220,2023,JPN,Japanese Grand Prix,Race,Race,2023-09-24,HARD,C1
+9173,1220,2023,JPN,Japanese Grand Prix,Race,Race,2023-09-24,MEDIUM,C2
+9173,1220,2023,JPN,Japanese Grand Prix,Race,Race,2023-09-24,SOFT,C3
+9214,1221,2023,QAT,Qatar Grand Prix,Practice 1,Practice,2023-10-06,HARD,C1
+9214,1221,2023,QAT,Qatar Grand Prix,Practice 1,Practice,2023-10-06,MEDIUM,C2
+9214,1221,2023,QAT,Qatar Grand Prix,Practice 1,Practice,2023-10-06,SOFT,C3
+9215,1221,2023,QAT,Qatar Grand Prix,Qualifying,Qualifying,2023-10-06,HARD,C1
+9215,1221,2023,QAT,Qatar Grand Prix,Qualifying,Qualifying,2023-10-06,MEDIUM,C2
+9215,1221,2023,QAT,Qatar Grand Prix,Qualifying,Qualifying,2023-10-06,SOFT,C3
+9298,1221,2023,QAT,Qatar Grand Prix,Sprint Qualifying,Qualifying,2023-10-07,HARD,C1
+9298,1221,2023,QAT,Qatar Grand Prix,Sprint Qualifying,Qualifying,2023-10-07,MEDIUM,C2
+9298,1221,2023,QAT,Qatar Grand Prix,Sprint Qualifying,Qualifying,2023-10-07,SOFT,C3
+9220,1221,2023,QAT,Qatar Grand Prix,Sprint,Race,2023-10-07,HARD,C1
+9220,1221,2023,QAT,Qatar Grand Prix,Sprint,Race,2023-10-07,MEDIUM,C2
+9220,1221,2023,QAT,Qatar Grand Prix,Sprint,Race,2023-10-07,SOFT,C3
+9221,1221,2023,QAT,Qatar Grand Prix,Race,Race,2023-10-08,HARD,C1
+9221,1221,2023,QAT,Qatar Grand Prix,Race,Race,2023-10-08,MEDIUM,C2
+9221,1221,2023,QAT,Qatar Grand Prix,Race,Race,2023-10-08,SOFT,C3
+9206,1222,2023,USA,United States Grand Prix,Practice 1,Practice,2023-10-20,HARD,C2
+9206,1222,2023,USA,United States Grand Prix,Practice 1,Practice,2023-10-20,MEDIUM,C3
+9206,1222,2023,USA,United States Grand Prix,Practice 1,Practice,2023-10-20,SOFT,C4
+9207,1222,2023,USA,United States Grand Prix,Qualifying,Qualifying,2023-10-20,HARD,C2
+9207,1222,2023,USA,United States Grand Prix,Qualifying,Qualifying,2023-10-20,MEDIUM,C3
+9207,1222,2023,USA,United States Grand Prix,Qualifying,Qualifying,2023-10-20,SOFT,C4
+9294,1222,2023,USA,United States Grand Prix,Sprint Qualifying,Qualifying,2023-10-21,HARD,C2
+9294,1222,2023,USA,United States Grand Prix,Sprint Qualifying,Qualifying,2023-10-21,MEDIUM,C3
+9294,1222,2023,USA,United States Grand Prix,Sprint Qualifying,Qualifying,2023-10-21,SOFT,C4
+9212,1222,2023,USA,United States Grand Prix,Sprint,Race,2023-10-21,HARD,C2
+9212,1222,2023,USA,United States Grand Prix,Sprint,Race,2023-10-21,MEDIUM,C3
+9212,1222,2023,USA,United States Grand Prix,Sprint,Race,2023-10-21,SOFT,C4
+9213,1222,2023,USA,United States Grand Prix,Race,Race,2023-10-22,HARD,C2
+9213,1222,2023,USA,United States Grand Prix,Race,Race,2023-10-22,MEDIUM,C3
+9213,1222,2023,USA,United States Grand Prix,Race,Race,2023-10-22,SOFT,C4
+9174,1223,2023,MEX,Mexico City Grand Prix,Practice 1,Practice,2023-10-27,HARD,C3
+9174,1223,2023,MEX,Mexico City Grand Prix,Practice 1,Practice,2023-10-27,MEDIUM,C4
+9174,1223,2023,MEX,Mexico City Grand Prix,Practice 1,Practice,2023-10-27,SOFT,C5
+9175,1223,2023,MEX,Mexico City Grand Prix,Practice 2,Practice,2023-10-27,HARD,C3
+9175,1223,2023,MEX,Mexico City Grand Prix,Practice 2,Practice,2023-10-27,MEDIUM,C4
+9175,1223,2023,MEX,Mexico City Grand Prix,Practice 2,Practice,2023-10-27,SOFT,C5
+9176,1223,2023,MEX,Mexico City Grand Prix,Practice 3,Practice,2023-10-28,HARD,C3
+9176,1223,2023,MEX,Mexico City Grand Prix,Practice 3,Practice,2023-10-28,MEDIUM,C4
+9176,1223,2023,MEX,Mexico City Grand Prix,Practice 3,Practice,2023-10-28,SOFT,C5
+9177,1223,2023,MEX,Mexico City Grand Prix,Qualifying,Qualifying,2023-10-28,HARD,C3
+9177,1223,2023,MEX,Mexico City Grand Prix,Qualifying,Qualifying,2023-10-28,MEDIUM,C4
+9177,1223,2023,MEX,Mexico City Grand Prix,Qualifying,Qualifying,2023-10-28,SOFT,C5
+9181,1223,2023,MEX,Mexico City Grand Prix,Race,Race,2023-10-29,HARD,C3
+9181,1223,2023,MEX,Mexico City Grand Prix,Race,Race,2023-10-29,MEDIUM,C4
+9181,1223,2023,MEX,Mexico City Grand Prix,Race,Race,2023-10-29,SOFT,C5
+9198,1224,2023,BRA,São Paulo Grand Prix,Practice 1,Practice,2023-11-03,HARD,C2
+9198,1224,2023,BRA,São Paulo Grand Prix,Practice 1,Practice,2023-11-03,MEDIUM,C3
+9198,1224,2023,BRA,São Paulo Grand Prix,Practice 1,Practice,2023-11-03,SOFT,C4
+9304,1224,2023,BRA,São Paulo Grand Prix,Qualifying,Qualifying,2023-11-03,HARD,C2
+9304,1224,2023,BRA,São Paulo Grand Prix,Qualifying,Qualifying,2023-11-03,MEDIUM,C3
+9304,1224,2023,BRA,São Paulo Grand Prix,Qualifying,Qualifying,2023-11-03,SOFT,C4
+9308,1224,2023,BRA,São Paulo Grand Prix,Sprint Qualifying,Qualifying,2023-11-04,HARD,C2
+9308,1224,2023,BRA,São Paulo Grand Prix,Sprint Qualifying,Qualifying,2023-11-04,MEDIUM,C3
+9308,1224,2023,BRA,São Paulo Grand Prix,Sprint Qualifying,Qualifying,2023-11-04,SOFT,C4
+9204,1224,2023,BRA,São Paulo Grand Prix,Sprint,Race,2023-11-04,HARD,C2
+9204,1224,2023,BRA,São Paulo Grand Prix,Sprint,Race,2023-11-04,MEDIUM,C3
+9204,1224,2023,BRA,São Paulo Grand Prix,Sprint,Race,2023-11-04,SOFT,C4
+9205,1224,2023,BRA,São Paulo Grand Prix,Race,Race,2023-11-05,HARD,C2
+9205,1224,2023,BRA,São Paulo Grand Prix,Race,Race,2023-11-05,MEDIUM,C3
+9205,1224,2023,BRA,São Paulo Grand Prix,Race,Race,2023-11-05,SOFT,C4
+9182,1225,2023,USA,Las Vegas Grand Prix,Practice 1,Practice,2023-11-17,HARD,C3
+9182,1225,2023,USA,Las Vegas Grand Prix,Practice 1,Practice,2023-11-17,MEDIUM,C4
+9182,1225,2023,USA,Las Vegas Grand Prix,Practice 1,Practice,2023-11-17,SOFT,C5
+9183,1225,2023,USA,Las Vegas Grand Prix,Practice 2,Practice,2023-11-17,HARD,C3
+9183,1225,2023,USA,Las Vegas Grand Prix,Practice 2,Practice,2023-11-17,MEDIUM,C4
+9183,1225,2023,USA,Las Vegas Grand Prix,Practice 2,Practice,2023-11-17,SOFT,C5
+9184,1225,2023,USA,Las Vegas Grand Prix,Practice 3,Practice,2023-11-18,HARD,C3
+9184,1225,2023,USA,Las Vegas Grand Prix,Practice 3,Practice,2023-11-18,MEDIUM,C4
+9184,1225,2023,USA,Las Vegas Grand Prix,Practice 3,Practice,2023-11-18,SOFT,C5
+9314,1225,2023,USA,Las Vegas Grand Prix,Qualifying,Qualifying,2023-11-18,HARD,C3
+9314,1225,2023,USA,Las Vegas Grand Prix,Qualifying,Qualifying,2023-11-18,MEDIUM,C4
+9314,1225,2023,USA,Las Vegas Grand Prix,Qualifying,Qualifying,2023-11-18,SOFT,C5
+9189,1225,2023,USA,Las Vegas Grand Prix,Race,Race,2023-11-19,HARD,C3
+9189,1225,2023,USA,Las Vegas Grand Prix,Race,Race,2023-11-19,MEDIUM,C4
+9189,1225,2023,USA,Las Vegas Grand Prix,Race,Race,2023-11-19,SOFT,C5
+9190,1226,2023,UAE,Abu Dhabi Grand Prix,Practice 1,Practice,2023-11-24,HARD,C3
+9190,1226,2023,UAE,Abu Dhabi Grand Prix,Practice 1,Practice,2023-11-24,MEDIUM,C4
+9190,1226,2023,UAE,Abu Dhabi Grand Prix,Practice 1,Practice,2023-11-24,SOFT,C5
+9191,1226,2023,UAE,Abu Dhabi Grand Prix,Practice 2,Practice,2023-11-24,HARD,C3
+9191,1226,2023,UAE,Abu Dhabi Grand Prix,Practice 2,Practice,2023-11-24,MEDIUM,C4
+9191,1226,2023,UAE,Abu Dhabi Grand Prix,Practice 2,Practice,2023-11-24,SOFT,C5
+9192,1226,2023,UAE,Abu Dhabi Grand Prix,Practice 3,Practice,2023-11-25,HARD,C3
+9192,1226,2023,UAE,Abu Dhabi Grand Prix,Practice 3,Practice,2023-11-25,MEDIUM,C4
+9192,1226,2023,UAE,Abu Dhabi Grand Prix,Practice 3,Practice,2023-11-25,SOFT,C5
+9193,1226,2023,UAE,Abu Dhabi Grand Prix,Qualifying,Qualifying,2023-11-25,HARD,C3
+9193,1226,2023,UAE,Abu Dhabi Grand Prix,Qualifying,Qualifying,2023-11-25,MEDIUM,C4
+9193,1226,2023,UAE,Abu Dhabi Grand Prix,Qualifying,Qualifying,2023-11-25,SOFT,C5
+9197,1226,2023,UAE,Abu Dhabi Grand Prix,Race,Race,2023-11-26,HARD,C3
+9197,1226,2023,UAE,Abu Dhabi Grand Prix,Race,Race,2023-11-26,MEDIUM,C4
+9197,1226,2023,UAE,Abu Dhabi Grand Prix,Race,Race,2023-11-26,SOFT,C5
+9465,1229,2024,BRN,Bahrain Grand Prix,Practice 1,Practice,2024-02-29,HARD,C1
+9465,1229,2024,BRN,Bahrain Grand Prix,Practice 1,Practice,2024-02-29,MEDIUM,C2
+9465,1229,2024,BRN,Bahrain Grand Prix,Practice 1,Practice,2024-02-29,SOFT,C3
+9466,1229,2024,BRN,Bahrain Grand Prix,Practice 2,Practice,2024-02-29,HARD,C1
+9466,1229,2024,BRN,Bahrain Grand Prix,Practice 2,Practice,2024-02-29,MEDIUM,C2
+9466,1229,2024,BRN,Bahrain Grand Prix,Practice 2,Practice,2024-02-29,SOFT,C3
+9467,1229,2024,BRN,Bahrain Grand Prix,Practice 3,Practice,2024-03-01,HARD,C1
+9467,1229,2024,BRN,Bahrain Grand Prix,Practice 3,Practice,2024-03-01,MEDIUM,C2
+9467,1229,2024,BRN,Bahrain Grand Prix,Practice 3,Practice,2024-03-01,SOFT,C3
+9468,1229,2024,BRN,Bahrain Grand Prix,Qualifying,Qualifying,2024-03-01,HARD,C1
+9468,1229,2024,BRN,Bahrain Grand Prix,Qualifying,Qualifying,2024-03-01,MEDIUM,C2
+9468,1229,2024,BRN,Bahrain Grand Prix,Qualifying,Qualifying,2024-03-01,SOFT,C3
+9472,1229,2024,BRN,Bahrain Grand Prix,Race,Race,2024-03-02,HARD,C1
+9472,1229,2024,BRN,Bahrain Grand Prix,Race,Race,2024-03-02,MEDIUM,C2
+9472,1229,2024,BRN,Bahrain Grand Prix,Race,Race,2024-03-02,SOFT,C3
+9473,1230,2024,KSA,Saudi Arabian Grand Prix,Practice 1,Practice,2024-03-07,HARD,C2
+9473,1230,2024,KSA,Saudi Arabian Grand Prix,Practice 1,Practice,2024-03-07,MEDIUM,C3
+9473,1230,2024,KSA,Saudi Arabian Grand Prix,Practice 1,Practice,2024-03-07,SOFT,C4
+9474,1230,2024,KSA,Saudi Arabian Grand Prix,Practice 2,Practice,2024-03-07,HARD,C2
+9474,1230,2024,KSA,Saudi Arabian Grand Prix,Practice 2,Practice,2024-03-07,MEDIUM,C3
+9474,1230,2024,KSA,Saudi Arabian Grand Prix,Practice 2,Practice,2024-03-07,SOFT,C4
+9475,1230,2024,KSA,Saudi Arabian Grand Prix,Practice 3,Practice,2024-03-08,HARD,C2
+9475,1230,2024,KSA,Saudi Arabian Grand Prix,Practice 3,Practice,2024-03-08,MEDIUM,C3
+9475,1230,2024,KSA,Saudi Arabian Grand Prix,Practice 3,Practice,2024-03-08,SOFT,C4
+9476,1230,2024,KSA,Saudi Arabian Grand Prix,Qualifying,Qualifying,2024-03-08,HARD,C2
+9476,1230,2024,KSA,Saudi Arabian Grand Prix,Qualifying,Qualifying,2024-03-08,MEDIUM,C3
+9476,1230,2024,KSA,Saudi Arabian Grand Prix,Qualifying,Qualifying,2024-03-08,SOFT,C4
+9480,1230,2024,KSA,Saudi Arabian Grand Prix,Race,Race,2024-03-09,HARD,C2
+9480,1230,2024,KSA,Saudi Arabian Grand Prix,Race,Race,2024-03-09,MEDIUM,C3
+9480,1230,2024,KSA,Saudi Arabian Grand Prix,Race,Race,2024-03-09,SOFT,C4
+9481,1231,2024,AUS,Australian Grand Prix,Practice 1,Practice,2024-03-22,HARD,C3
+9481,1231,2024,AUS,Australian Grand Prix,Practice 1,Practice,2024-03-22,MEDIUM,C4
+9481,1231,2024,AUS,Australian Grand Prix,Practice 1,Practice,2024-03-22,SOFT,C5
+9482,1231,2024,AUS,Australian Grand Prix,Practice 2,Practice,2024-03-22,HARD,C3
+9482,1231,2024,AUS,Australian Grand Prix,Practice 2,Practice,2024-03-22,MEDIUM,C4
+9482,1231,2024,AUS,Australian Grand Prix,Practice 2,Practice,2024-03-22,SOFT,C5
+9483,1231,2024,AUS,Australian Grand Prix,Practice 3,Practice,2024-03-23,HARD,C3
+9483,1231,2024,AUS,Australian Grand Prix,Practice 3,Practice,2024-03-23,MEDIUM,C4
+9483,1231,2024,AUS,Australian Grand Prix,Practice 3,Practice,2024-03-23,SOFT,C5
+9484,1231,2024,AUS,Australian Grand Prix,Qualifying,Qualifying,2024-03-23,HARD,C3
+9484,1231,2024,AUS,Australian Grand Prix,Qualifying,Qualifying,2024-03-23,MEDIUM,C4
+9484,1231,2024,AUS,Australian Grand Prix,Qualifying,Qualifying,2024-03-23,SOFT,C5
+9488,1231,2024,AUS,Australian Grand Prix,Race,Race,2024-03-24,HARD,C3
+9488,1231,2024,AUS,Australian Grand Prix,Race,Race,2024-03-24,MEDIUM,C4
+9488,1231,2024,AUS,Australian Grand Prix,Race,Race,2024-03-24,SOFT,C5
+9489,1232,2024,JPN,Japanese Grand Prix,Practice 1,Practice,2024-04-05,HARD,C1
+9489,1232,2024,JPN,Japanese Grand Prix,Practice 1,Practice,2024-04-05,MEDIUM,C2
+9489,1232,2024,JPN,Japanese Grand Prix,Practice 1,Practice,2024-04-05,SOFT,C3
+9490,1232,2024,JPN,Japanese Grand Prix,Practice 2,Practice,2024-04-05,HARD,C1
+9490,1232,2024,JPN,Japanese Grand Prix,Practice 2,Practice,2024-04-05,MEDIUM,C2
+9490,1232,2024,JPN,Japanese Grand Prix,Practice 2,Practice,2024-04-05,SOFT,C3
+9491,1232,2024,JPN,Japanese Grand Prix,Practice 3,Practice,2024-04-06,HARD,C1
+9491,1232,2024,JPN,Japanese Grand Prix,Practice 3,Practice,2024-04-06,MEDIUM,C2
+9491,1232,2024,JPN,Japanese Grand Prix,Practice 3,Practice,2024-04-06,SOFT,C3
+9492,1232,2024,JPN,Japanese Grand Prix,Qualifying,Qualifying,2024-04-06,HARD,C1
+9492,1232,2024,JPN,Japanese Grand Prix,Qualifying,Qualifying,2024-04-06,MEDIUM,C2
+9492,1232,2024,JPN,Japanese Grand Prix,Qualifying,Qualifying,2024-04-06,SOFT,C3
+9496,1232,2024,JPN,Japanese Grand Prix,Race,Race,2024-04-07,HARD,C1
+9496,1232,2024,JPN,Japanese Grand Prix,Race,Race,2024-04-07,MEDIUM,C2
+9496,1232,2024,JPN,Japanese Grand Prix,Race,Race,2024-04-07,SOFT,C3
+9663,1233,2024,CHN,Chinese Grand Prix,Practice 1,Practice,2024-04-19,HARD,C2
+9663,1233,2024,CHN,Chinese Grand Prix,Practice 1,Practice,2024-04-19,MEDIUM,C3
+9663,1233,2024,CHN,Chinese Grand Prix,Practice 1,Practice,2024-04-19,SOFT,C4
+9668,1233,2024,CHN,Chinese Grand Prix,Sprint Qualifying,Qualifying,2024-04-19,HARD,C2
+9668,1233,2024,CHN,Chinese Grand Prix,Sprint Qualifying,Qualifying,2024-04-19,MEDIUM,C3
+9668,1233,2024,CHN,Chinese Grand Prix,Sprint Qualifying,Qualifying,2024-04-19,SOFT,C4
+9672,1233,2024,CHN,Chinese Grand Prix,Sprint,Race,2024-04-20,HARD,C2
+9672,1233,2024,CHN,Chinese Grand Prix,Sprint,Race,2024-04-20,MEDIUM,C3
+9672,1233,2024,CHN,Chinese Grand Prix,Sprint,Race,2024-04-20,SOFT,C4
+9664,1233,2024,CHN,Chinese Grand Prix,Qualifying,Qualifying,2024-04-20,HARD,C2
+9664,1233,2024,CHN,Chinese Grand Prix,Qualifying,Qualifying,2024-04-20,MEDIUM,C3
+9664,1233,2024,CHN,Chinese Grand Prix,Qualifying,Qualifying,2024-04-20,SOFT,C4
+9673,1233,2024,CHN,Chinese Grand Prix,Race,Race,2024-04-21,HARD,C2
+9673,1233,2024,CHN,Chinese Grand Prix,Race,Race,2024-04-21,MEDIUM,C3
+9673,1233,2024,CHN,Chinese Grand Prix,Race,Race,2024-04-21,SOFT,C4
+9497,1234,2024,USA,Miami Grand Prix,Practice 1,Practice,2024-05-03,HARD,C2
+9497,1234,2024,USA,Miami Grand Prix,Practice 1,Practice,2024-05-03,MEDIUM,C3
+9497,1234,2024,USA,Miami Grand Prix,Practice 1,Practice,2024-05-03,SOFT,C4
+9502,1234,2024,USA,Miami Grand Prix,Sprint Qualifying,Qualifying,2024-05-03,HARD,C2
+9502,1234,2024,USA,Miami Grand Prix,Sprint Qualifying,Qualifying,2024-05-03,MEDIUM,C3
+9502,1234,2024,USA,Miami Grand Prix,Sprint Qualifying,Qualifying,2024-05-03,SOFT,C4
+9506,1234,2024,USA,Miami Grand Prix,Sprint,Race,2024-05-04,HARD,C2
+9506,1234,2024,USA,Miami Grand Prix,Sprint,Race,2024-05-04,MEDIUM,C3
+9506,1234,2024,USA,Miami Grand Prix,Sprint,Race,2024-05-04,SOFT,C4
+9498,1234,2024,USA,Miami Grand Prix,Qualifying,Qualifying,2024-05-04,HARD,C2
+9498,1234,2024,USA,Miami Grand Prix,Qualifying,Qualifying,2024-05-04,MEDIUM,C3
+9498,1234,2024,USA,Miami Grand Prix,Qualifying,Qualifying,2024-05-04,SOFT,C4
+9507,1234,2024,USA,Miami Grand Prix,Race,Race,2024-05-05,HARD,C2
+9507,1234,2024,USA,Miami Grand Prix,Race,Race,2024-05-05,MEDIUM,C3
+9507,1234,2024,USA,Miami Grand Prix,Race,Race,2024-05-05,SOFT,C4
+9508,1235,2024,ITA,Emilia Romagna Grand Prix,Practice 1,Practice,2024-05-17,HARD,C3
+9508,1235,2024,ITA,Emilia Romagna Grand Prix,Practice 1,Practice,2024-05-17,MEDIUM,C4
+9508,1235,2024,ITA,Emilia Romagna Grand Prix,Practice 1,Practice,2024-05-17,SOFT,C5
+9509,1235,2024,ITA,Emilia Romagna Grand Prix,Practice 2,Practice,2024-05-17,HARD,C3
+9509,1235,2024,ITA,Emilia Romagna Grand Prix,Practice 2,Practice,2024-05-17,MEDIUM,C4
+9509,1235,2024,ITA,Emilia Romagna Grand Prix,Practice 2,Practice,2024-05-17,SOFT,C5
+9510,1235,2024,ITA,Emilia Romagna Grand Prix,Practice 3,Practice,2024-05-18,HARD,C3
+9510,1235,2024,ITA,Emilia Romagna Grand Prix,Practice 3,Practice,2024-05-18,MEDIUM,C4
+9510,1235,2024,ITA,Emilia Romagna Grand Prix,Practice 3,Practice,2024-05-18,SOFT,C5
+9511,1235,2024,ITA,Emilia Romagna Grand Prix,Qualifying,Qualifying,2024-05-18,HARD,C3
+9511,1235,2024,ITA,Emilia Romagna Grand Prix,Qualifying,Qualifying,2024-05-18,MEDIUM,C4
+9511,1235,2024,ITA,Emilia Romagna Grand Prix,Qualifying,Qualifying,2024-05-18,SOFT,C5
+9515,1235,2024,ITA,Emilia Romagna Grand Prix,Race,Race,2024-05-19,HARD,C3
+9515,1235,2024,ITA,Emilia Romagna Grand Prix,Race,Race,2024-05-19,MEDIUM,C4
+9515,1235,2024,ITA,Emilia Romagna Grand Prix,Race,Race,2024-05-19,SOFT,C5
+9516,1236,2024,MON,Monaco Grand Prix,Practice 1,Practice,2024-05-24,HARD,C3
+9516,1236,2024,MON,Monaco Grand Prix,Practice 1,Practice,2024-05-24,MEDIUM,C4
+9516,1236,2024,MON,Monaco Grand Prix,Practice 1,Practice,2024-05-24,SOFT,C5
+9517,1236,2024,MON,Monaco Grand Prix,Practice 2,Practice,2024-05-24,HARD,C3
+9517,1236,2024,MON,Monaco Grand Prix,Practice 2,Practice,2024-05-24,MEDIUM,C4
+9517,1236,2024,MON,Monaco Grand Prix,Practice 2,Practice,2024-05-24,SOFT,C5
+9518,1236,2024,MON,Monaco Grand Prix,Practice 3,Practice,2024-05-25,HARD,C3
+9518,1236,2024,MON,Monaco Grand Prix,Practice 3,Practice,2024-05-25,MEDIUM,C4
+9518,1236,2024,MON,Monaco Grand Prix,Practice 3,Practice,2024-05-25,SOFT,C5
+9519,1236,2024,MON,Monaco Grand Prix,Qualifying,Qualifying,2024-05-25,HARD,C3
+9519,1236,2024,MON,Monaco Grand Prix,Qualifying,Qualifying,2024-05-25,MEDIUM,C4
+9519,1236,2024,MON,Monaco Grand Prix,Qualifying,Qualifying,2024-05-25,SOFT,C5
+9523,1236,2024,MON,Monaco Grand Prix,Race,Race,2024-05-26,HARD,C3
+9523,1236,2024,MON,Monaco Grand Prix,Race,Race,2024-05-26,MEDIUM,C4
+9523,1236,2024,MON,Monaco Grand Prix,Race,Race,2024-05-26,SOFT,C5
+9524,1237,2024,CAN,Canadian Grand Prix,Practice 1,Practice,2024-06-07,HARD,C3
+9524,1237,2024,CAN,Canadian Grand Prix,Practice 1,Practice,2024-06-07,MEDIUM,C4
+9524,1237,2024,CAN,Canadian Grand Prix,Practice 1,Practice,2024-06-07,SOFT,C5
+9525,1237,2024,CAN,Canadian Grand Prix,Practice 2,Practice,2024-06-07,HARD,C3
+9525,1237,2024,CAN,Canadian Grand Prix,Practice 2,Practice,2024-06-07,MEDIUM,C4
+9525,1237,2024,CAN,Canadian Grand Prix,Practice 2,Practice,2024-06-07,SOFT,C5
+9526,1237,2024,CAN,Canadian Grand Prix,Practice 3,Practice,2024-06-08,HARD,C3
+9526,1237,2024,CAN,Canadian Grand Prix,Practice 3,Practice,2024-06-08,MEDIUM,C4
+9526,1237,2024,CAN,Canadian Grand Prix,Practice 3,Practice,2024-06-08,SOFT,C5
+9527,1237,2024,CAN,Canadian Grand Prix,Qualifying,Qualifying,2024-06-08,HARD,C3
+9527,1237,2024,CAN,Canadian Grand Prix,Qualifying,Qualifying,2024-06-08,MEDIUM,C4
+9527,1237,2024,CAN,Canadian Grand Prix,Qualifying,Qualifying,2024-06-08,SOFT,C5
+9531,1237,2024,CAN,Canadian Grand Prix,Race,Race,2024-06-09,HARD,C3
+9531,1237,2024,CAN,Canadian Grand Prix,Race,Race,2024-06-09,MEDIUM,C4
+9531,1237,2024,CAN,Canadian Grand Prix,Race,Race,2024-06-09,SOFT,C5
+9532,1238,2024,ESP,Spanish Grand Prix,Practice 1,Practice,2024-06-21,HARD,C1
+9532,1238,2024,ESP,Spanish Grand Prix,Practice 1,Practice,2024-06-21,MEDIUM,C2
+9532,1238,2024,ESP,Spanish Grand Prix,Practice 1,Practice,2024-06-21,SOFT,C3
+9533,1238,2024,ESP,Spanish Grand Prix,Practice 2,Practice,2024-06-21,HARD,C1
+9533,1238,2024,ESP,Spanish Grand Prix,Practice 2,Practice,2024-06-21,MEDIUM,C2
+9533,1238,2024,ESP,Spanish Grand Prix,Practice 2,Practice,2024-06-21,SOFT,C3
+9534,1238,2024,ESP,Spanish Grand Prix,Practice 3,Practice,2024-06-22,HARD,C1
+9534,1238,2024,ESP,Spanish Grand Prix,Practice 3,Practice,2024-06-22,MEDIUM,C2
+9534,1238,2024,ESP,Spanish Grand Prix,Practice 3,Practice,2024-06-22,SOFT,C3
+9535,1238,2024,ESP,Spanish Grand Prix,Qualifying,Qualifying,2024-06-22,HARD,C1
+9535,1238,2024,ESP,Spanish Grand Prix,Qualifying,Qualifying,2024-06-22,MEDIUM,C2
+9535,1238,2024,ESP,Spanish Grand Prix,Qualifying,Qualifying,2024-06-22,SOFT,C3
+9539,1238,2024,ESP,Spanish Grand Prix,Race,Race,2024-06-23,HARD,C1
+9539,1238,2024,ESP,Spanish Grand Prix,Race,Race,2024-06-23,MEDIUM,C2
+9539,1238,2024,ESP,Spanish Grand Prix,Race,Race,2024-06-23,SOFT,C3
+9540,1239,2024,AUT,Austrian Grand Prix,Practice 1,Practice,2024-06-28,HARD,C3
+9540,1239,2024,AUT,Austrian Grand Prix,Practice 1,Practice,2024-06-28,MEDIUM,C4
+9540,1239,2024,AUT,Austrian Grand Prix,Practice 1,Practice,2024-06-28,SOFT,C5
+9545,1239,2024,AUT,Austrian Grand Prix,Sprint Qualifying,Qualifying,2024-06-28,HARD,C3
+9545,1239,2024,AUT,Austrian Grand Prix,Sprint Qualifying,Qualifying,2024-06-28,MEDIUM,C4
+9545,1239,2024,AUT,Austrian Grand Prix,Sprint Qualifying,Qualifying,2024-06-28,SOFT,C5
+9549,1239,2024,AUT,Austrian Grand Prix,Sprint,Race,2024-06-29,HARD,C3
+9549,1239,2024,AUT,Austrian Grand Prix,Sprint,Race,2024-06-29,MEDIUM,C4
+9549,1239,2024,AUT,Austrian Grand Prix,Sprint,Race,2024-06-29,SOFT,C5
+9541,1239,2024,AUT,Austrian Grand Prix,Qualifying,Qualifying,2024-06-29,HARD,C3
+9541,1239,2024,AUT,Austrian Grand Prix,Qualifying,Qualifying,2024-06-29,MEDIUM,C4
+9541,1239,2024,AUT,Austrian Grand Prix,Qualifying,Qualifying,2024-06-29,SOFT,C5
+9550,1239,2024,AUT,Austrian Grand Prix,Race,Race,2024-06-30,HARD,C3
+9550,1239,2024,AUT,Austrian Grand Prix,Race,Race,2024-06-30,MEDIUM,C4
+9550,1239,2024,AUT,Austrian Grand Prix,Race,Race,2024-06-30,SOFT,C5
+9551,1240,2024,GBR,British Grand Prix,Practice 1,Practice,2024-07-05,HARD,C1
+9551,1240,2024,GBR,British Grand Prix,Practice 1,Practice,2024-07-05,MEDIUM,C2
+9551,1240,2024,GBR,British Grand Prix,Practice 1,Practice,2024-07-05,SOFT,C3
+9552,1240,2024,GBR,British Grand Prix,Practice 2,Practice,2024-07-05,HARD,C1
+9552,1240,2024,GBR,British Grand Prix,Practice 2,Practice,2024-07-05,MEDIUM,C2
+9552,1240,2024,GBR,British Grand Prix,Practice 2,Practice,2024-07-05,SOFT,C3
+9553,1240,2024,GBR,British Grand Prix,Practice 3,Practice,2024-07-06,HARD,C1
+9553,1240,2024,GBR,British Grand Prix,Practice 3,Practice,2024-07-06,MEDIUM,C2
+9553,1240,2024,GBR,British Grand Prix,Practice 3,Practice,2024-07-06,SOFT,C3
+9554,1240,2024,GBR,British Grand Prix,Qualifying,Qualifying,2024-07-06,HARD,C1
+9554,1240,2024,GBR,British Grand Prix,Qualifying,Qualifying,2024-07-06,MEDIUM,C2
+9554,1240,2024,GBR,British Grand Prix,Qualifying,Qualifying,2024-07-06,SOFT,C3
+9558,1240,2024,GBR,British Grand Prix,Race,Race,2024-07-07,HARD,C1
+9558,1240,2024,GBR,British Grand Prix,Race,Race,2024-07-07,MEDIUM,C2
+9558,1240,2024,GBR,British Grand Prix,Race,Race,2024-07-07,SOFT,C3
+9559,1241,2024,HUN,Hungarian Grand Prix,Practice 1,Practice,2024-07-19,HARD,C3
+9559,1241,2024,HUN,Hungarian Grand Prix,Practice 1,Practice,2024-07-19,MEDIUM,C4
+9559,1241,2024,HUN,Hungarian Grand Prix,Practice 1,Practice,2024-07-19,SOFT,C5
+9560,1241,2024,HUN,Hungarian Grand Prix,Practice 2,Practice,2024-07-19,HARD,C3
+9560,1241,2024,HUN,Hungarian Grand Prix,Practice 2,Practice,2024-07-19,MEDIUM,C4
+9560,1241,2024,HUN,Hungarian Grand Prix,Practice 2,Practice,2024-07-19,SOFT,C5
+9561,1241,2024,HUN,Hungarian Grand Prix,Practice 3,Practice,2024-07-20,HARD,C3
+9561,1241,2024,HUN,Hungarian Grand Prix,Practice 3,Practice,2024-07-20,MEDIUM,C4
+9561,1241,2024,HUN,Hungarian Grand Prix,Practice 3,Practice,2024-07-20,SOFT,C5
+9562,1241,2024,HUN,Hungarian Grand Prix,Qualifying,Qualifying,2024-07-20,HARD,C3
+9562,1241,2024,HUN,Hungarian Grand Prix,Qualifying,Qualifying,2024-07-20,MEDIUM,C4
+9562,1241,2024,HUN,Hungarian Grand Prix,Qualifying,Qualifying,2024-07-20,SOFT,C5
+9566,1241,2024,HUN,Hungarian Grand Prix,Race,Race,2024-07-21,HARD,C3
+9566,1241,2024,HUN,Hungarian Grand Prix,Race,Race,2024-07-21,MEDIUM,C4
+9566,1241,2024,HUN,Hungarian Grand Prix,Race,Race,2024-07-21,SOFT,C5
+9567,1242,2024,BEL,Belgian Grand Prix,Practice 1,Practice,2024-07-26,HARD,C2
+9567,1242,2024,BEL,Belgian Grand Prix,Practice 1,Practice,2024-07-26,MEDIUM,C3
+9567,1242,2024,BEL,Belgian Grand Prix,Practice 1,Practice,2024-07-26,SOFT,C4
+9568,1242,2024,BEL,Belgian Grand Prix,Practice 2,Practice,2024-07-26,HARD,C2
+9568,1242,2024,BEL,Belgian Grand Prix,Practice 2,Practice,2024-07-26,MEDIUM,C3
+9568,1242,2024,BEL,Belgian Grand Prix,Practice 2,Practice,2024-07-26,SOFT,C4
+9569,1242,2024,BEL,Belgian Grand Prix,Practice 3,Practice,2024-07-27,HARD,C2
+9569,1242,2024,BEL,Belgian Grand Prix,Practice 3,Practice,2024-07-27,MEDIUM,C3
+9569,1242,2024,BEL,Belgian Grand Prix,Practice 3,Practice,2024-07-27,SOFT,C4
+9570,1242,2024,BEL,Belgian Grand Prix,Qualifying,Qualifying,2024-07-27,HARD,C2
+9570,1242,2024,BEL,Belgian Grand Prix,Qualifying,Qualifying,2024-07-27,MEDIUM,C3
+9570,1242,2024,BEL,Belgian Grand Prix,Qualifying,Qualifying,2024-07-27,SOFT,C4
+9574,1242,2024,BEL,Belgian Grand Prix,Race,Race,2024-07-28,HARD,C2
+9574,1242,2024,BEL,Belgian Grand Prix,Race,Race,2024-07-28,MEDIUM,C3
+9574,1242,2024,BEL,Belgian Grand Prix,Race,Race,2024-07-28,SOFT,C4
+9575,1243,2024,NED,Dutch Grand Prix,Practice 1,Practice,2024-08-23,HARD,C1
+9575,1243,2024,NED,Dutch Grand Prix,Practice 1,Practice,2024-08-23,MEDIUM,C2
+9575,1243,2024,NED,Dutch Grand Prix,Practice 1,Practice,2024-08-23,SOFT,C3
+9576,1243,2024,NED,Dutch Grand Prix,Practice 2,Practice,2024-08-23,HARD,C1
+9576,1243,2024,NED,Dutch Grand Prix,Practice 2,Practice,2024-08-23,MEDIUM,C2
+9576,1243,2024,NED,Dutch Grand Prix,Practice 2,Practice,2024-08-23,SOFT,C3
+9577,1243,2024,NED,Dutch Grand Prix,Practice 3,Practice,2024-08-24,HARD,C1
+9577,1243,2024,NED,Dutch Grand Prix,Practice 3,Practice,2024-08-24,MEDIUM,C2
+9577,1243,2024,NED,Dutch Grand Prix,Practice 3,Practice,2024-08-24,SOFT,C3
+9578,1243,2024,NED,Dutch Grand Prix,Qualifying,Qualifying,2024-08-24,HARD,C1
+9578,1243,2024,NED,Dutch Grand Prix,Qualifying,Qualifying,2024-08-24,MEDIUM,C2
+9578,1243,2024,NED,Dutch Grand Prix,Qualifying,Qualifying,2024-08-24,SOFT,C3
+9582,1243,2024,NED,Dutch Grand Prix,Race,Race,2024-08-25,HARD,C1
+9582,1243,2024,NED,Dutch Grand Prix,Race,Race,2024-08-25,MEDIUM,C2
+9582,1243,2024,NED,Dutch Grand Prix,Race,Race,2024-08-25,SOFT,C3
+9583,1244,2024,ITA,Italian Grand Prix,Practice 1,Practice,2024-08-30,HARD,C3
+9583,1244,2024,ITA,Italian Grand Prix,Practice 1,Practice,2024-08-30,MEDIUM,C4
+9583,1244,2024,ITA,Italian Grand Prix,Practice 1,Practice,2024-08-30,SOFT,C5
+9584,1244,2024,ITA,Italian Grand Prix,Practice 2,Practice,2024-08-30,HARD,C3
+9584,1244,2024,ITA,Italian Grand Prix,Practice 2,Practice,2024-08-30,MEDIUM,C4
+9584,1244,2024,ITA,Italian Grand Prix,Practice 2,Practice,2024-08-30,SOFT,C5
+9585,1244,2024,ITA,Italian Grand Prix,Practice 3,Practice,2024-08-31,HARD,C3
+9585,1244,2024,ITA,Italian Grand Prix,Practice 3,Practice,2024-08-31,MEDIUM,C4
+9585,1244,2024,ITA,Italian Grand Prix,Practice 3,Practice,2024-08-31,SOFT,C5
+9586,1244,2024,ITA,Italian Grand Prix,Qualifying,Qualifying,2024-08-31,HARD,C3
+9586,1244,2024,ITA,Italian Grand Prix,Qualifying,Qualifying,2024-08-31,MEDIUM,C4
+9586,1244,2024,ITA,Italian Grand Prix,Qualifying,Qualifying,2024-08-31,SOFT,C5
+9590,1244,2024,ITA,Italian Grand Prix,Race,Race,2024-09-01,HARD,C3
+9590,1244,2024,ITA,Italian Grand Prix,Race,Race,2024-09-01,MEDIUM,C4
+9590,1244,2024,ITA,Italian Grand Prix,Race,Race,2024-09-01,SOFT,C5
+9591,1245,2024,AZE,Azerbaijan Grand Prix,Practice 1,Practice,2024-09-13,HARD,C3
+9591,1245,2024,AZE,Azerbaijan Grand Prix,Practice 1,Practice,2024-09-13,MEDIUM,C4
+9591,1245,2024,AZE,Azerbaijan Grand Prix,Practice 1,Practice,2024-09-13,SOFT,C5
+9592,1245,2024,AZE,Azerbaijan Grand Prix,Practice 2,Practice,2024-09-13,HARD,C3
+9592,1245,2024,AZE,Azerbaijan Grand Prix,Practice 2,Practice,2024-09-13,MEDIUM,C4
+9592,1245,2024,AZE,Azerbaijan Grand Prix,Practice 2,Practice,2024-09-13,SOFT,C5
+9593,1245,2024,AZE,Azerbaijan Grand Prix,Practice 3,Practice,2024-09-14,HARD,C3
+9593,1245,2024,AZE,Azerbaijan Grand Prix,Practice 3,Practice,2024-09-14,MEDIUM,C4
+9593,1245,2024,AZE,Azerbaijan Grand Prix,Practice 3,Practice,2024-09-14,SOFT,C5
+9594,1245,2024,AZE,Azerbaijan Grand Prix,Qualifying,Qualifying,2024-09-14,HARD,C3
+9594,1245,2024,AZE,Azerbaijan Grand Prix,Qualifying,Qualifying,2024-09-14,MEDIUM,C4
+9594,1245,2024,AZE,Azerbaijan Grand Prix,Qualifying,Qualifying,2024-09-14,SOFT,C5
+9598,1245,2024,AZE,Azerbaijan Grand Prix,Race,Race,2024-09-15,HARD,C3
+9598,1245,2024,AZE,Azerbaijan Grand Prix,Race,Race,2024-09-15,MEDIUM,C4
+9598,1245,2024,AZE,Azerbaijan Grand Prix,Race,Race,2024-09-15,SOFT,C5
+9599,1246,2024,SGP,Singapore Grand Prix,Practice 1,Practice,2024-09-20,HARD,C3
+9599,1246,2024,SGP,Singapore Grand Prix,Practice 1,Practice,2024-09-20,MEDIUM,C4
+9599,1246,2024,SGP,Singapore Grand Prix,Practice 1,Practice,2024-09-20,SOFT,C5
+9600,1246,2024,SGP,Singapore Grand Prix,Practice 2,Practice,2024-09-20,HARD,C3
+9600,1246,2024,SGP,Singapore Grand Prix,Practice 2,Practice,2024-09-20,MEDIUM,C4
+9600,1246,2024,SGP,Singapore Grand Prix,Practice 2,Practice,2024-09-20,SOFT,C5
+9601,1246,2024,SGP,Singapore Grand Prix,Practice 3,Practice,2024-09-21,HARD,C3
+9601,1246,2024,SGP,Singapore Grand Prix,Practice 3,Practice,2024-09-21,MEDIUM,C4
+9601,1246,2024,SGP,Singapore Grand Prix,Practice 3,Practice,2024-09-21,SOFT,C5
+9602,1246,2024,SGP,Singapore Grand Prix,Qualifying,Qualifying,2024-09-21,HARD,C3
+9602,1246,2024,SGP,Singapore Grand Prix,Qualifying,Qualifying,2024-09-21,MEDIUM,C4
+9602,1246,2024,SGP,Singapore Grand Prix,Qualifying,Qualifying,2024-09-21,SOFT,C5
+9606,1246,2024,SGP,Singapore Grand Prix,Race,Race,2024-09-22,HARD,C3
+9606,1246,2024,SGP,Singapore Grand Prix,Race,Race,2024-09-22,MEDIUM,C4
+9606,1246,2024,SGP,Singapore Grand Prix,Race,Race,2024-09-22,SOFT,C5
+9607,1247,2024,USA,United States Grand Prix,Practice 1,Practice,2024-10-18,HARD,C2
+9607,1247,2024,USA,United States Grand Prix,Practice 1,Practice,2024-10-18,MEDIUM,C3
+9607,1247,2024,USA,United States Grand Prix,Practice 1,Practice,2024-10-18,SOFT,C4
+9612,1247,2024,USA,United States Grand Prix,Sprint Qualifying,Qualifying,2024-10-18,HARD,C2
+9612,1247,2024,USA,United States Grand Prix,Sprint Qualifying,Qualifying,2024-10-18,MEDIUM,C3
+9612,1247,2024,USA,United States Grand Prix,Sprint Qualifying,Qualifying,2024-10-18,SOFT,C4
+9616,1247,2024,USA,United States Grand Prix,Sprint,Race,2024-10-19,HARD,C2
+9616,1247,2024,USA,United States Grand Prix,Sprint,Race,2024-10-19,MEDIUM,C3
+9616,1247,2024,USA,United States Grand Prix,Sprint,Race,2024-10-19,SOFT,C4
+9608,1247,2024,USA,United States Grand Prix,Qualifying,Qualifying,2024-10-19,HARD,C2
+9608,1247,2024,USA,United States Grand Prix,Qualifying,Qualifying,2024-10-19,MEDIUM,C3
+9608,1247,2024,USA,United States Grand Prix,Qualifying,Qualifying,2024-10-19,SOFT,C4
+9617,1247,2024,USA,United States Grand Prix,Race,Race,2024-10-20,HARD,C2
+9617,1247,2024,USA,United States Grand Prix,Race,Race,2024-10-20,MEDIUM,C3
+9617,1247,2024,USA,United States Grand Prix,Race,Race,2024-10-20,SOFT,C4
+9618,1248,2024,MEX,Mexico City Grand Prix,Practice 1,Practice,2024-10-25,HARD,C3
+9618,1248,2024,MEX,Mexico City Grand Prix,Practice 1,Practice,2024-10-25,MEDIUM,C4
+9618,1248,2024,MEX,Mexico City Grand Prix,Practice 1,Practice,2024-10-25,SOFT,C5
+9619,1248,2024,MEX,Mexico City Grand Prix,Practice 2,Practice,2024-10-25,HARD,C3
+9619,1248,2024,MEX,Mexico City Grand Prix,Practice 2,Practice,2024-10-25,MEDIUM,C4
+9619,1248,2024,MEX,Mexico City Grand Prix,Practice 2,Practice,2024-10-25,SOFT,C5
+9620,1248,2024,MEX,Mexico City Grand Prix,Practice 3,Practice,2024-10-26,HARD,C3
+9620,1248,2024,MEX,Mexico City Grand Prix,Practice 3,Practice,2024-10-26,MEDIUM,C4
+9620,1248,2024,MEX,Mexico City Grand Prix,Practice 3,Practice,2024-10-26,SOFT,C5
+9621,1248,2024,MEX,Mexico City Grand Prix,Qualifying,Qualifying,2024-10-26,HARD,C3
+9621,1248,2024,MEX,Mexico City Grand Prix,Qualifying,Qualifying,2024-10-26,MEDIUM,C4
+9621,1248,2024,MEX,Mexico City Grand Prix,Qualifying,Qualifying,2024-10-26,SOFT,C5
+9625,1248,2024,MEX,Mexico City Grand Prix,Race,Race,2024-10-27,HARD,C3
+9625,1248,2024,MEX,Mexico City Grand Prix,Race,Race,2024-10-27,MEDIUM,C4
+9625,1248,2024,MEX,Mexico City Grand Prix,Race,Race,2024-10-27,SOFT,C5
+9626,1249,2024,BRA,São Paulo Grand Prix,Practice 1,Practice,2024-11-01,HARD,C3
+9626,1249,2024,BRA,São Paulo Grand Prix,Practice 1,Practice,2024-11-01,MEDIUM,C4
+9626,1249,2024,BRA,São Paulo Grand Prix,Practice 1,Practice,2024-11-01,SOFT,C5
+9631,1249,2024,BRA,São Paulo Grand Prix,Sprint Qualifying,Qualifying,2024-11-01,HARD,C3
+9631,1249,2024,BRA,São Paulo Grand Prix,Sprint Qualifying,Qualifying,2024-11-01,MEDIUM,C4
+9631,1249,2024,BRA,São Paulo Grand Prix,Sprint Qualifying,Qualifying,2024-11-01,SOFT,C5
+9635,1249,2024,BRA,São Paulo Grand Prix,Sprint,Race,2024-11-02,HARD,C3
+9635,1249,2024,BRA,São Paulo Grand Prix,Sprint,Race,2024-11-02,MEDIUM,C4
+9635,1249,2024,BRA,São Paulo Grand Prix,Sprint,Race,2024-11-02,SOFT,C5
+9627,1249,2024,BRA,São Paulo Grand Prix,Qualifying,Qualifying,2024-11-03,HARD,C3
+9627,1249,2024,BRA,São Paulo Grand Prix,Qualifying,Qualifying,2024-11-03,MEDIUM,C4
+9627,1249,2024,BRA,São Paulo Grand Prix,Qualifying,Qualifying,2024-11-03,SOFT,C5
+9636,1249,2024,BRA,São Paulo Grand Prix,Race,Race,2024-11-03,HARD,C3
+9636,1249,2024,BRA,São Paulo Grand Prix,Race,Race,2024-11-03,MEDIUM,C4
+9636,1249,2024,BRA,São Paulo Grand Prix,Race,Race,2024-11-03,SOFT,C5
+9637,1250,2024,USA,Las Vegas Grand Prix,Practice 1,Practice,2024-11-22,HARD,C3
+9637,1250,2024,USA,Las Vegas Grand Prix,Practice 1,Practice,2024-11-22,MEDIUM,C4
+9637,1250,2024,USA,Las Vegas Grand Prix,Practice 1,Practice,2024-11-22,SOFT,C5
+9638,1250,2024,USA,Las Vegas Grand Prix,Practice 2,Practice,2024-11-22,HARD,C3
+9638,1250,2024,USA,Las Vegas Grand Prix,Practice 2,Practice,2024-11-22,MEDIUM,C4
+9638,1250,2024,USA,Las Vegas Grand Prix,Practice 2,Practice,2024-11-22,SOFT,C5
+9639,1250,2024,USA,Las Vegas Grand Prix,Practice 3,Practice,2024-11-23,HARD,C3
+9639,1250,2024,USA,Las Vegas Grand Prix,Practice 3,Practice,2024-11-23,MEDIUM,C4
+9639,1250,2024,USA,Las Vegas Grand Prix,Practice 3,Practice,2024-11-23,SOFT,C5
+9640,1250,2024,USA,Las Vegas Grand Prix,Qualifying,Qualifying,2024-11-23,HARD,C3
+9640,1250,2024,USA,Las Vegas Grand Prix,Qualifying,Qualifying,2024-11-23,MEDIUM,C4
+9640,1250,2024,USA,Las Vegas Grand Prix,Qualifying,Qualifying,2024-11-23,SOFT,C5
+9644,1250,2024,USA,Las Vegas Grand Prix,Race,Race,2024-11-24,HARD,C3
+9644,1250,2024,USA,Las Vegas Grand Prix,Race,Race,2024-11-24,MEDIUM,C4
+9644,1250,2024,USA,Las Vegas Grand Prix,Race,Race,2024-11-24,SOFT,C5
+9645,1251,2024,QAT,Qatar Grand Prix,Practice 1,Practice,2024-11-29,HARD,C1
+9645,1251,2024,QAT,Qatar Grand Prix,Practice 1,Practice,2024-11-29,MEDIUM,C2
+9645,1251,2024,QAT,Qatar Grand Prix,Practice 1,Practice,2024-11-29,SOFT,C3
+9650,1251,2024,QAT,Qatar Grand Prix,Sprint Qualifying,Qualifying,2024-11-29,HARD,C1
+9650,1251,2024,QAT,Qatar Grand Prix,Sprint Qualifying,Qualifying,2024-11-29,MEDIUM,C2
+9650,1251,2024,QAT,Qatar Grand Prix,Sprint Qualifying,Qualifying,2024-11-29,SOFT,C3
+9654,1251,2024,QAT,Qatar Grand Prix,Sprint,Race,2024-11-30,HARD,C1
+9654,1251,2024,QAT,Qatar Grand Prix,Sprint,Race,2024-11-30,MEDIUM,C2
+9654,1251,2024,QAT,Qatar Grand Prix,Sprint,Race,2024-11-30,SOFT,C3
+9646,1251,2024,QAT,Qatar Grand Prix,Qualifying,Qualifying,2024-11-30,HARD,C1
+9646,1251,2024,QAT,Qatar Grand Prix,Qualifying,Qualifying,2024-11-30,MEDIUM,C2
+9646,1251,2024,QAT,Qatar Grand Prix,Qualifying,Qualifying,2024-11-30,SOFT,C3
+9655,1251,2024,QAT,Qatar Grand Prix,Race,Race,2024-12-01,HARD,C1
+9655,1251,2024,QAT,Qatar Grand Prix,Race,Race,2024-12-01,MEDIUM,C2
+9655,1251,2024,QAT,Qatar Grand Prix,Race,Race,2024-12-01,SOFT,C3
+9461,1252,2024,UAE,Abu Dhabi Grand Prix,Practice 1,Practice,2024-12-06,HARD,C3
+9461,1252,2024,UAE,Abu Dhabi Grand Prix,Practice 1,Practice,2024-12-06,MEDIUM,C4
+9461,1252,2024,UAE,Abu Dhabi Grand Prix,Practice 1,Practice,2024-12-06,SOFT,C5
+9656,1252,2024,UAE,Abu Dhabi Grand Prix,Practice 2,Practice,2024-12-06,HARD,C3
+9656,1252,2024,UAE,Abu Dhabi Grand Prix,Practice 2,Practice,2024-12-06,MEDIUM,C4
+9656,1252,2024,UAE,Abu Dhabi Grand Prix,Practice 2,Practice,2024-12-06,SOFT,C5
+9657,1252,2024,UAE,Abu Dhabi Grand Prix,Practice 3,Practice,2024-12-07,HARD,C3
+9657,1252,2024,UAE,Abu Dhabi Grand Prix,Practice 3,Practice,2024-12-07,MEDIUM,C4
+9657,1252,2024,UAE,Abu Dhabi Grand Prix,Practice 3,Practice,2024-12-07,SOFT,C5
+9658,1252,2024,UAE,Abu Dhabi Grand Prix,Qualifying,Qualifying,2024-12-07,HARD,C3
+9658,1252,2024,UAE,Abu Dhabi Grand Prix,Qualifying,Qualifying,2024-12-07,MEDIUM,C4
+9658,1252,2024,UAE,Abu Dhabi Grand Prix,Qualifying,Qualifying,2024-12-07,SOFT,C5
+9662,1252,2024,UAE,Abu Dhabi Grand Prix,Race,Race,2024-12-08,HARD,C3
+9662,1252,2024,UAE,Abu Dhabi Grand Prix,Race,Race,2024-12-08,MEDIUM,C4
+9662,1252,2024,UAE,Abu Dhabi Grand Prix,Race,Race,2024-12-08,SOFT,C5
+9686,1254,2025,AUS,Australian Grand Prix,Practice 1,Practice,2025-03-14,HARD,C3
+9686,1254,2025,AUS,Australian Grand Prix,Practice 1,Practice,2025-03-14,MEDIUM,C4
+9686,1254,2025,AUS,Australian Grand Prix,Practice 1,Practice,2025-03-14,SOFT,C5
+9687,1254,2025,AUS,Australian Grand Prix,Practice 2,Practice,2025-03-14,HARD,C3
+9687,1254,2025,AUS,Australian Grand Prix,Practice 2,Practice,2025-03-14,MEDIUM,C4
+9687,1254,2025,AUS,Australian Grand Prix,Practice 2,Practice,2025-03-14,SOFT,C5
+9688,1254,2025,AUS,Australian Grand Prix,Practice 3,Practice,2025-03-15,HARD,C3
+9688,1254,2025,AUS,Australian Grand Prix,Practice 3,Practice,2025-03-15,MEDIUM,C4
+9688,1254,2025,AUS,Australian Grand Prix,Practice 3,Practice,2025-03-15,SOFT,C5
+9689,1254,2025,AUS,Australian Grand Prix,Qualifying,Qualifying,2025-03-15,HARD,C3
+9689,1254,2025,AUS,Australian Grand Prix,Qualifying,Qualifying,2025-03-15,MEDIUM,C4
+9689,1254,2025,AUS,Australian Grand Prix,Qualifying,Qualifying,2025-03-15,SOFT,C5
+9693,1254,2025,AUS,Australian Grand Prix,Race,Race,2025-03-16,HARD,C3
+9693,1254,2025,AUS,Australian Grand Prix,Race,Race,2025-03-16,MEDIUM,C4
+9693,1254,2025,AUS,Australian Grand Prix,Race,Race,2025-03-16,SOFT,C5
+9988,1255,2025,CHN,Chinese Grand Prix,Practice 1,Practice,2025-03-21,HARD,C2
+9988,1255,2025,CHN,Chinese Grand Prix,Practice 1,Practice,2025-03-21,MEDIUM,C3
+9988,1255,2025,CHN,Chinese Grand Prix,Practice 1,Practice,2025-03-21,SOFT,C4
+9989,1255,2025,CHN,Chinese Grand Prix,Sprint Qualifying,Qualifying,2025-03-21,HARD,C2
+9989,1255,2025,CHN,Chinese Grand Prix,Sprint Qualifying,Qualifying,2025-03-21,MEDIUM,C3
+9989,1255,2025,CHN,Chinese Grand Prix,Sprint Qualifying,Qualifying,2025-03-21,SOFT,C4
+9993,1255,2025,CHN,Chinese Grand Prix,Sprint,Race,2025-03-22,HARD,C2
+9993,1255,2025,CHN,Chinese Grand Prix,Sprint,Race,2025-03-22,MEDIUM,C3
+9993,1255,2025,CHN,Chinese Grand Prix,Sprint,Race,2025-03-22,SOFT,C4
+9994,1255,2025,CHN,Chinese Grand Prix,Qualifying,Qualifying,2025-03-22,HARD,C2
+9994,1255,2025,CHN,Chinese Grand Prix,Qualifying,Qualifying,2025-03-22,MEDIUM,C3
+9994,1255,2025,CHN,Chinese Grand Prix,Qualifying,Qualifying,2025-03-22,SOFT,C4
+9998,1255,2025,CHN,Chinese Grand Prix,Race,Race,2025-03-23,HARD,C2
+9998,1255,2025,CHN,Chinese Grand Prix,Race,Race,2025-03-23,MEDIUM,C3
+9998,1255,2025,CHN,Chinese Grand Prix,Race,Race,2025-03-23,SOFT,C4
+9999,1256,2025,JPN,Japanese Grand Prix,Practice 1,Practice,2025-04-04,HARD,C1
+9999,1256,2025,JPN,Japanese Grand Prix,Practice 1,Practice,2025-04-04,MEDIUM,C2
+9999,1256,2025,JPN,Japanese Grand Prix,Practice 1,Practice,2025-04-04,SOFT,C3
+10000,1256,2025,JPN,Japanese Grand Prix,Practice 2,Practice,2025-04-04,HARD,C1
+10000,1256,2025,JPN,Japanese Grand Prix,Practice 2,Practice,2025-04-04,MEDIUM,C2
+10000,1256,2025,JPN,Japanese Grand Prix,Practice 2,Practice,2025-04-04,SOFT,C3
+10001,1256,2025,JPN,Japanese Grand Prix,Practice 3,Practice,2025-04-05,HARD,C1
+10001,1256,2025,JPN,Japanese Grand Prix,Practice 3,Practice,2025-04-05,MEDIUM,C2
+10001,1256,2025,JPN,Japanese Grand Prix,Practice 3,Practice,2025-04-05,SOFT,C3
+10002,1256,2025,JPN,Japanese Grand Prix,Qualifying,Qualifying,2025-04-05,HARD,C1
+10002,1256,2025,JPN,Japanese Grand Prix,Qualifying,Qualifying,2025-04-05,MEDIUM,C2
+10002,1256,2025,JPN,Japanese Grand Prix,Qualifying,Qualifying,2025-04-05,SOFT,C3
+10006,1256,2025,JPN,Japanese Grand Prix,Race,Race,2025-04-06,HARD,C1
+10006,1256,2025,JPN,Japanese Grand Prix,Race,Race,2025-04-06,MEDIUM,C2
+10006,1256,2025,JPN,Japanese Grand Prix,Race,Race,2025-04-06,SOFT,C3
+10007,1257,2025,BRN,Bahrain Grand Prix,Practice 1,Practice,2025-04-11,HARD,C1
+10007,1257,2025,BRN,Bahrain Grand Prix,Practice 1,Practice,2025-04-11,MEDIUM,C2
+10007,1257,2025,BRN,Bahrain Grand Prix,Practice 1,Practice,2025-04-11,SOFT,C3
+10008,1257,2025,BRN,Bahrain Grand Prix,Practice 2,Practice,2025-04-11,HARD,C1
+10008,1257,2025,BRN,Bahrain Grand Prix,Practice 2,Practice,2025-04-11,MEDIUM,C2
+10008,1257,2025,BRN,Bahrain Grand Prix,Practice 2,Practice,2025-04-11,SOFT,C3
+10009,1257,2025,BRN,Bahrain Grand Prix,Practice 3,Practice,2025-04-12,HARD,C1
+10009,1257,2025,BRN,Bahrain Grand Prix,Practice 3,Practice,2025-04-12,MEDIUM,C2
+10009,1257,2025,BRN,Bahrain Grand Prix,Practice 3,Practice,2025-04-12,SOFT,C3
+10010,1257,2025,BRN,Bahrain Grand Prix,Qualifying,Qualifying,2025-04-12,HARD,C1
+10010,1257,2025,BRN,Bahrain Grand Prix,Qualifying,Qualifying,2025-04-12,MEDIUM,C2
+10010,1257,2025,BRN,Bahrain Grand Prix,Qualifying,Qualifying,2025-04-12,SOFT,C3
+10014,1257,2025,BRN,Bahrain Grand Prix,Race,Race,2025-04-13,HARD,C1
+10014,1257,2025,BRN,Bahrain Grand Prix,Race,Race,2025-04-13,MEDIUM,C2
+10014,1257,2025,BRN,Bahrain Grand Prix,Race,Race,2025-04-13,SOFT,C3
+10015,1258,2025,KSA,Saudi Arabian Grand Prix,Practice 1,Practice,2025-04-18,HARD,C3
+10015,1258,2025,KSA,Saudi Arabian Grand Prix,Practice 1,Practice,2025-04-18,MEDIUM,C4
+10015,1258,2025,KSA,Saudi Arabian Grand Prix,Practice 1,Practice,2025-04-18,SOFT,C5
+10016,1258,2025,KSA,Saudi Arabian Grand Prix,Practice 2,Practice,2025-04-18,HARD,C3
+10016,1258,2025,KSA,Saudi Arabian Grand Prix,Practice 2,Practice,2025-04-18,MEDIUM,C4
+10016,1258,2025,KSA,Saudi Arabian Grand Prix,Practice 2,Practice,2025-04-18,SOFT,C5
+10017,1258,2025,KSA,Saudi Arabian Grand Prix,Practice 3,Practice,2025-04-19,HARD,C3
+10017,1258,2025,KSA,Saudi Arabian Grand Prix,Practice 3,Practice,2025-04-19,MEDIUM,C4
+10017,1258,2025,KSA,Saudi Arabian Grand Prix,Practice 3,Practice,2025-04-19,SOFT,C5
+10018,1258,2025,KSA,Saudi Arabian Grand Prix,Qualifying,Qualifying,2025-04-19,HARD,C3
+10018,1258,2025,KSA,Saudi Arabian Grand Prix,Qualifying,Qualifying,2025-04-19,MEDIUM,C4
+10018,1258,2025,KSA,Saudi Arabian Grand Prix,Qualifying,Qualifying,2025-04-19,SOFT,C5
+10022,1258,2025,KSA,Saudi Arabian Grand Prix,Race,Race,2025-04-20,HARD,C3
+10022,1258,2025,KSA,Saudi Arabian Grand Prix,Race,Race,2025-04-20,MEDIUM,C4
+10022,1258,2025,KSA,Saudi Arabian Grand Prix,Race,Race,2025-04-20,SOFT,C5
+10023,1259,2025,USA,Miami Grand Prix,Practice 1,Practice,2025-05-02,HARD,C3
+10023,1259,2025,USA,Miami Grand Prix,Practice 1,Practice,2025-05-02,MEDIUM,C4
+10023,1259,2025,USA,Miami Grand Prix,Practice 1,Practice,2025-05-02,SOFT,C5
+10024,1259,2025,USA,Miami Grand Prix,Sprint Qualifying,Qualifying,2025-05-02,HARD,C3
+10024,1259,2025,USA,Miami Grand Prix,Sprint Qualifying,Qualifying,2025-05-02,MEDIUM,C4
+10024,1259,2025,USA,Miami Grand Prix,Sprint Qualifying,Qualifying,2025-05-02,SOFT,C5
+10028,1259,2025,USA,Miami Grand Prix,Sprint,Race,2025-05-03,HARD,C3
+10028,1259,2025,USA,Miami Grand Prix,Sprint,Race,2025-05-03,MEDIUM,C4
+10028,1259,2025,USA,Miami Grand Prix,Sprint,Race,2025-05-03,SOFT,C5
+10029,1259,2025,USA,Miami Grand Prix,Qualifying,Qualifying,2025-05-03,HARD,C3
+10029,1259,2025,USA,Miami Grand Prix,Qualifying,Qualifying,2025-05-03,MEDIUM,C4
+10029,1259,2025,USA,Miami Grand Prix,Qualifying,Qualifying,2025-05-03,SOFT,C5
+10033,1259,2025,USA,Miami Grand Prix,Race,Race,2025-05-04,HARD,C3
+10033,1259,2025,USA,Miami Grand Prix,Race,Race,2025-05-04,MEDIUM,C4
+10033,1259,2025,USA,Miami Grand Prix,Race,Race,2025-05-04,SOFT,C5
+9980,1260,2025,ITA,Emilia Romagna Grand Prix,Practice 1,Practice,2025-05-16,HARD,C4
+9980,1260,2025,ITA,Emilia Romagna Grand Prix,Practice 1,Practice,2025-05-16,MEDIUM,C5
+9980,1260,2025,ITA,Emilia Romagna Grand Prix,Practice 1,Practice,2025-05-16,SOFT,C6
+9981,1260,2025,ITA,Emilia Romagna Grand Prix,Practice 2,Practice,2025-05-16,HARD,C4
+9981,1260,2025,ITA,Emilia Romagna Grand Prix,Practice 2,Practice,2025-05-16,MEDIUM,C5
+9981,1260,2025,ITA,Emilia Romagna Grand Prix,Practice 2,Practice,2025-05-16,SOFT,C6
+9982,1260,2025,ITA,Emilia Romagna Grand Prix,Practice 3,Practice,2025-05-17,HARD,C4
+9982,1260,2025,ITA,Emilia Romagna Grand Prix,Practice 3,Practice,2025-05-17,MEDIUM,C5
+9982,1260,2025,ITA,Emilia Romagna Grand Prix,Practice 3,Practice,2025-05-17,SOFT,C6
+9983,1260,2025,ITA,Emilia Romagna Grand Prix,Qualifying,Qualifying,2025-05-17,HARD,C4
+9983,1260,2025,ITA,Emilia Romagna Grand Prix,Qualifying,Qualifying,2025-05-17,MEDIUM,C5
+9983,1260,2025,ITA,Emilia Romagna Grand Prix,Qualifying,Qualifying,2025-05-17,SOFT,C6
+9987,1260,2025,ITA,Emilia Romagna Grand Prix,Race,Race,2025-05-18,HARD,C4
+9987,1260,2025,ITA,Emilia Romagna Grand Prix,Race,Race,2025-05-18,MEDIUM,C5
+9987,1260,2025,ITA,Emilia Romagna Grand Prix,Race,Race,2025-05-18,SOFT,C6
+9972,1261,2025,MON,Monaco Grand Prix,Practice 1,Practice,2025-05-23,HARD,C4
+9972,1261,2025,MON,Monaco Grand Prix,Practice 1,Practice,2025-05-23,MEDIUM,C5
+9972,1261,2025,MON,Monaco Grand Prix,Practice 1,Practice,2025-05-23,SOFT,C6
+9973,1261,2025,MON,Monaco Grand Prix,Practice 2,Practice,2025-05-23,HARD,C4
+9973,1261,2025,MON,Monaco Grand Prix,Practice 2,Practice,2025-05-23,MEDIUM,C5
+9973,1261,2025,MON,Monaco Grand Prix,Practice 2,Practice,2025-05-23,SOFT,C6
+9974,1261,2025,MON,Monaco Grand Prix,Practice 3,Practice,2025-05-24,HARD,C4
+9974,1261,2025,MON,Monaco Grand Prix,Practice 3,Practice,2025-05-24,MEDIUM,C5
+9974,1261,2025,MON,Monaco Grand Prix,Practice 3,Practice,2025-05-24,SOFT,C6
+9975,1261,2025,MON,Monaco Grand Prix,Qualifying,Qualifying,2025-05-24,HARD,C4
+9975,1261,2025,MON,Monaco Grand Prix,Qualifying,Qualifying,2025-05-24,MEDIUM,C5
+9975,1261,2025,MON,Monaco Grand Prix,Qualifying,Qualifying,2025-05-24,SOFT,C6
+9979,1261,2025,MON,Monaco Grand Prix,Race,Race,2025-05-25,HARD,C4
+9979,1261,2025,MON,Monaco Grand Prix,Race,Race,2025-05-25,MEDIUM,C5
+9979,1261,2025,MON,Monaco Grand Prix,Race,Race,2025-05-25,SOFT,C6
+9964,1262,2025,ESP,Spanish Grand Prix,Practice 1,Practice,2025-05-30,HARD,C1
+9964,1262,2025,ESP,Spanish Grand Prix,Practice 1,Practice,2025-05-30,MEDIUM,C2
+9964,1262,2025,ESP,Spanish Grand Prix,Practice 1,Practice,2025-05-30,SOFT,C3
+9965,1262,2025,ESP,Spanish Grand Prix,Practice 2,Practice,2025-05-30,HARD,C1
+9965,1262,2025,ESP,Spanish Grand Prix,Practice 2,Practice,2025-05-30,MEDIUM,C2
+9965,1262,2025,ESP,Spanish Grand Prix,Practice 2,Practice,2025-05-30,SOFT,C3
+9966,1262,2025,ESP,Spanish Grand Prix,Practice 3,Practice,2025-05-31,HARD,C1
+9966,1262,2025,ESP,Spanish Grand Prix,Practice 3,Practice,2025-05-31,MEDIUM,C2
+9966,1262,2025,ESP,Spanish Grand Prix,Practice 3,Practice,2025-05-31,SOFT,C3
+9967,1262,2025,ESP,Spanish Grand Prix,Qualifying,Qualifying,2025-05-31,HARD,C1
+9967,1262,2025,ESP,Spanish Grand Prix,Qualifying,Qualifying,2025-05-31,MEDIUM,C2
+9967,1262,2025,ESP,Spanish Grand Prix,Qualifying,Qualifying,2025-05-31,SOFT,C3
+9971,1262,2025,ESP,Spanish Grand Prix,Race,Race,2025-06-01,HARD,C1
+9971,1262,2025,ESP,Spanish Grand Prix,Race,Race,2025-06-01,MEDIUM,C2
+9971,1262,2025,ESP,Spanish Grand Prix,Race,Race,2025-06-01,SOFT,C3
+9956,1263,2025,CAN,Canadian Grand Prix,Practice 1,Practice,2025-06-13,HARD,C4
+9956,1263,2025,CAN,Canadian Grand Prix,Practice 1,Practice,2025-06-13,MEDIUM,C5
+9956,1263,2025,CAN,Canadian Grand Prix,Practice 1,Practice,2025-06-13,SOFT,C6
+9957,1263,2025,CAN,Canadian Grand Prix,Practice 2,Practice,2025-06-13,HARD,C4
+9957,1263,2025,CAN,Canadian Grand Prix,Practice 2,Practice,2025-06-13,MEDIUM,C5
+9957,1263,2025,CAN,Canadian Grand Prix,Practice 2,Practice,2025-06-13,SOFT,C6
+9958,1263,2025,CAN,Canadian Grand Prix,Practice 3,Practice,2025-06-14,HARD,C4
+9958,1263,2025,CAN,Canadian Grand Prix,Practice 3,Practice,2025-06-14,MEDIUM,C5
+9958,1263,2025,CAN,Canadian Grand Prix,Practice 3,Practice,2025-06-14,SOFT,C6
+9959,1263,2025,CAN,Canadian Grand Prix,Qualifying,Qualifying,2025-06-14,HARD,C4
+9959,1263,2025,CAN,Canadian Grand Prix,Qualifying,Qualifying,2025-06-14,MEDIUM,C5
+9959,1263,2025,CAN,Canadian Grand Prix,Qualifying,Qualifying,2025-06-14,SOFT,C6
+9963,1263,2025,CAN,Canadian Grand Prix,Race,Race,2025-06-15,HARD,C4
+9963,1263,2025,CAN,Canadian Grand Prix,Race,Race,2025-06-15,MEDIUM,C5
+9963,1263,2025,CAN,Canadian Grand Prix,Race,Race,2025-06-15,SOFT,C6
+9948,1264,2025,AUT,Austrian Grand Prix,Practice 1,Practice,2025-06-27,HARD,C3
+9948,1264,2025,AUT,Austrian Grand Prix,Practice 1,Practice,2025-06-27,MEDIUM,C4
+9948,1264,2025,AUT,Austrian Grand Prix,Practice 1,Practice,2025-06-27,SOFT,C5
+9949,1264,2025,AUT,Austrian Grand Prix,Practice 2,Practice,2025-06-27,HARD,C3
+9949,1264,2025,AUT,Austrian Grand Prix,Practice 2,Practice,2025-06-27,MEDIUM,C4
+9949,1264,2025,AUT,Austrian Grand Prix,Practice 2,Practice,2025-06-27,SOFT,C5
+9950,1264,2025,AUT,Austrian Grand Prix,Practice 3,Practice,2025-06-28,HARD,C3
+9950,1264,2025,AUT,Austrian Grand Prix,Practice 3,Practice,2025-06-28,MEDIUM,C4
+9950,1264,2025,AUT,Austrian Grand Prix,Practice 3,Practice,2025-06-28,SOFT,C5
+9951,1264,2025,AUT,Austrian Grand Prix,Qualifying,Qualifying,2025-06-28,HARD,C3
+9951,1264,2025,AUT,Austrian Grand Prix,Qualifying,Qualifying,2025-06-28,MEDIUM,C4
+9951,1264,2025,AUT,Austrian Grand Prix,Qualifying,Qualifying,2025-06-28,SOFT,C5
+9955,1264,2025,AUT,Austrian Grand Prix,Race,Race,2025-06-29,HARD,C3
+9955,1264,2025,AUT,Austrian Grand Prix,Race,Race,2025-06-29,MEDIUM,C4
+9955,1264,2025,AUT,Austrian Grand Prix,Race,Race,2025-06-29,SOFT,C5
+9929,1265,2025,BEL,Belgian Grand Prix,Practice 1,Practice,2025-07-25,HARD,C1
+9929,1265,2025,BEL,Belgian Grand Prix,Practice 1,Practice,2025-07-25,MEDIUM,C3
+9929,1265,2025,BEL,Belgian Grand Prix,Practice 1,Practice,2025-07-25,SOFT,C4
+9930,1265,2025,BEL,Belgian Grand Prix,Sprint Qualifying,Qualifying,2025-07-25,HARD,C1
+9930,1265,2025,BEL,Belgian Grand Prix,Sprint Qualifying,Qualifying,2025-07-25,MEDIUM,C3
+9930,1265,2025,BEL,Belgian Grand Prix,Sprint Qualifying,Qualifying,2025-07-25,SOFT,C4
+9934,1265,2025,BEL,Belgian Grand Prix,Sprint,Race,2025-07-26,HARD,C1
+9934,1265,2025,BEL,Belgian Grand Prix,Sprint,Race,2025-07-26,MEDIUM,C3
+9934,1265,2025,BEL,Belgian Grand Prix,Sprint,Race,2025-07-26,SOFT,C4
+9935,1265,2025,BEL,Belgian Grand Prix,Qualifying,Qualifying,2025-07-26,HARD,C1
+9935,1265,2025,BEL,Belgian Grand Prix,Qualifying,Qualifying,2025-07-26,MEDIUM,C3
+9935,1265,2025,BEL,Belgian Grand Prix,Qualifying,Qualifying,2025-07-26,SOFT,C4
+9939,1265,2025,BEL,Belgian Grand Prix,Race,Race,2025-07-27,HARD,C1
+9939,1265,2025,BEL,Belgian Grand Prix,Race,Race,2025-07-27,MEDIUM,C3
+9939,1265,2025,BEL,Belgian Grand Prix,Race,Race,2025-07-27,SOFT,C4
+9921,1266,2025,HUN,Hungarian Grand Prix,Practice 1,Practice,2025-08-01,HARD,C3
+9921,1266,2025,HUN,Hungarian Grand Prix,Practice 1,Practice,2025-08-01,MEDIUM,C4
+9921,1266,2025,HUN,Hungarian Grand Prix,Practice 1,Practice,2025-08-01,SOFT,C5
+9922,1266,2025,HUN,Hungarian Grand Prix,Practice 2,Practice,2025-08-01,HARD,C3
+9922,1266,2025,HUN,Hungarian Grand Prix,Practice 2,Practice,2025-08-01,MEDIUM,C4
+9922,1266,2025,HUN,Hungarian Grand Prix,Practice 2,Practice,2025-08-01,SOFT,C5
+9923,1266,2025,HUN,Hungarian Grand Prix,Practice 3,Practice,2025-08-02,HARD,C3
+9923,1266,2025,HUN,Hungarian Grand Prix,Practice 3,Practice,2025-08-02,MEDIUM,C4
+9923,1266,2025,HUN,Hungarian Grand Prix,Practice 3,Practice,2025-08-02,SOFT,C5
+9924,1266,2025,HUN,Hungarian Grand Prix,Qualifying,Qualifying,2025-08-02,HARD,C3
+9924,1266,2025,HUN,Hungarian Grand Prix,Qualifying,Qualifying,2025-08-02,MEDIUM,C4
+9924,1266,2025,HUN,Hungarian Grand Prix,Qualifying,Qualifying,2025-08-02,SOFT,C5
+9928,1266,2025,HUN,Hungarian Grand Prix,Race,Race,2025-08-03,HARD,C3
+9928,1266,2025,HUN,Hungarian Grand Prix,Race,Race,2025-08-03,MEDIUM,C4
+9928,1266,2025,HUN,Hungarian Grand Prix,Race,Race,2025-08-03,SOFT,C5
+9913,1267,2025,NED,Dutch Grand Prix,Practice 1,Practice,2025-08-29,HARD,C2
+9913,1267,2025,NED,Dutch Grand Prix,Practice 1,Practice,2025-08-29,MEDIUM,C3
+9913,1267,2025,NED,Dutch Grand Prix,Practice 1,Practice,2025-08-29,SOFT,C4
+9914,1267,2025,NED,Dutch Grand Prix,Practice 2,Practice,2025-08-29,HARD,C2
+9914,1267,2025,NED,Dutch Grand Prix,Practice 2,Practice,2025-08-29,MEDIUM,C3
+9914,1267,2025,NED,Dutch Grand Prix,Practice 2,Practice,2025-08-29,SOFT,C4
+9915,1267,2025,NED,Dutch Grand Prix,Practice 3,Practice,2025-08-30,HARD,C2
+9915,1267,2025,NED,Dutch Grand Prix,Practice 3,Practice,2025-08-30,MEDIUM,C3
+9915,1267,2025,NED,Dutch Grand Prix,Practice 3,Practice,2025-08-30,SOFT,C4
+9916,1267,2025,NED,Dutch Grand Prix,Qualifying,Qualifying,2025-08-30,HARD,C2
+9916,1267,2025,NED,Dutch Grand Prix,Qualifying,Qualifying,2025-08-30,MEDIUM,C3
+9916,1267,2025,NED,Dutch Grand Prix,Qualifying,Qualifying,2025-08-30,SOFT,C4
+9920,1267,2025,NED,Dutch Grand Prix,Race,Race,2025-08-31,HARD,C2
+9920,1267,2025,NED,Dutch Grand Prix,Race,Race,2025-08-31,MEDIUM,C3
+9920,1267,2025,NED,Dutch Grand Prix,Race,Race,2025-08-31,SOFT,C4
+9905,1268,2025,ITA,Italian Grand Prix,Practice 1,Practice,2025-09-05,HARD,C3
+9905,1268,2025,ITA,Italian Grand Prix,Practice 1,Practice,2025-09-05,MEDIUM,C4
+9905,1268,2025,ITA,Italian Grand Prix,Practice 1,Practice,2025-09-05,SOFT,C5
+9906,1268,2025,ITA,Italian Grand Prix,Practice 2,Practice,2025-09-05,HARD,C3
+9906,1268,2025,ITA,Italian Grand Prix,Practice 2,Practice,2025-09-05,MEDIUM,C4
+9906,1268,2025,ITA,Italian Grand Prix,Practice 2,Practice,2025-09-05,SOFT,C5
+9907,1268,2025,ITA,Italian Grand Prix,Practice 3,Practice,2025-09-06,HARD,C3
+9907,1268,2025,ITA,Italian Grand Prix,Practice 3,Practice,2025-09-06,MEDIUM,C4
+9907,1268,2025,ITA,Italian Grand Prix,Practice 3,Practice,2025-09-06,SOFT,C5
+9908,1268,2025,ITA,Italian Grand Prix,Qualifying,Qualifying,2025-09-06,HARD,C3
+9908,1268,2025,ITA,Italian Grand Prix,Qualifying,Qualifying,2025-09-06,MEDIUM,C4
+9908,1268,2025,ITA,Italian Grand Prix,Qualifying,Qualifying,2025-09-06,SOFT,C5
+9912,1268,2025,ITA,Italian Grand Prix,Race,Race,2025-09-07,HARD,C3
+9912,1268,2025,ITA,Italian Grand Prix,Race,Race,2025-09-07,MEDIUM,C4
+9912,1268,2025,ITA,Italian Grand Prix,Race,Race,2025-09-07,SOFT,C5
+9897,1269,2025,AZE,Azerbaijan Grand Prix,Practice 1,Practice,2025-09-19,HARD,C4
+9897,1269,2025,AZE,Azerbaijan Grand Prix,Practice 1,Practice,2025-09-19,MEDIUM,C5
+9897,1269,2025,AZE,Azerbaijan Grand Prix,Practice 1,Practice,2025-09-19,SOFT,C6
+9898,1269,2025,AZE,Azerbaijan Grand Prix,Practice 2,Practice,2025-09-19,HARD,C4
+9898,1269,2025,AZE,Azerbaijan Grand Prix,Practice 2,Practice,2025-09-19,MEDIUM,C5
+9898,1269,2025,AZE,Azerbaijan Grand Prix,Practice 2,Practice,2025-09-19,SOFT,C6
+9899,1269,2025,AZE,Azerbaijan Grand Prix,Practice 3,Practice,2025-09-20,HARD,C4
+9899,1269,2025,AZE,Azerbaijan Grand Prix,Practice 3,Practice,2025-09-20,MEDIUM,C5
+9899,1269,2025,AZE,Azerbaijan Grand Prix,Practice 3,Practice,2025-09-20,SOFT,C6
+9900,1269,2025,AZE,Azerbaijan Grand Prix,Qualifying,Qualifying,2025-09-20,HARD,C4
+9900,1269,2025,AZE,Azerbaijan Grand Prix,Qualifying,Qualifying,2025-09-20,MEDIUM,C5
+9900,1269,2025,AZE,Azerbaijan Grand Prix,Qualifying,Qualifying,2025-09-20,SOFT,C6
+9904,1269,2025,AZE,Azerbaijan Grand Prix,Race,Race,2025-09-21,HARD,C4
+9904,1269,2025,AZE,Azerbaijan Grand Prix,Race,Race,2025-09-21,MEDIUM,C5
+9904,1269,2025,AZE,Azerbaijan Grand Prix,Race,Race,2025-09-21,SOFT,C6
+9889,1270,2025,SGP,Singapore Grand Prix,Practice 1,Practice,2025-10-03,HARD,C3
+9889,1270,2025,SGP,Singapore Grand Prix,Practice 1,Practice,2025-10-03,MEDIUM,C4
+9889,1270,2025,SGP,Singapore Grand Prix,Practice 1,Practice,2025-10-03,SOFT,C5
+9890,1270,2025,SGP,Singapore Grand Prix,Practice 2,Practice,2025-10-03,HARD,C3
+9890,1270,2025,SGP,Singapore Grand Prix,Practice 2,Practice,2025-10-03,MEDIUM,C4
+9890,1270,2025,SGP,Singapore Grand Prix,Practice 2,Practice,2025-10-03,SOFT,C5
+9891,1270,2025,SGP,Singapore Grand Prix,Practice 3,Practice,2025-10-04,HARD,C3
+9891,1270,2025,SGP,Singapore Grand Prix,Practice 3,Practice,2025-10-04,MEDIUM,C4
+9891,1270,2025,SGP,Singapore Grand Prix,Practice 3,Practice,2025-10-04,SOFT,C5
+9892,1270,2025,SGP,Singapore Grand Prix,Qualifying,Qualifying,2025-10-04,HARD,C3
+9892,1270,2025,SGP,Singapore Grand Prix,Qualifying,Qualifying,2025-10-04,MEDIUM,C4
+9892,1270,2025,SGP,Singapore Grand Prix,Qualifying,Qualifying,2025-10-04,SOFT,C5
+9896,1270,2025,SGP,Singapore Grand Prix,Race,Race,2025-10-05,HARD,C3
+9896,1270,2025,SGP,Singapore Grand Prix,Race,Race,2025-10-05,MEDIUM,C4
+9896,1270,2025,SGP,Singapore Grand Prix,Race,Race,2025-10-05,SOFT,C5
+9878,1271,2025,USA,United States Grand Prix,Practice 1,Practice,2025-10-17,HARD,C1
+9878,1271,2025,USA,United States Grand Prix,Practice 1,Practice,2025-10-17,MEDIUM,C3
+9878,1271,2025,USA,United States Grand Prix,Practice 1,Practice,2025-10-17,SOFT,C4
+9879,1271,2025,USA,United States Grand Prix,Sprint Qualifying,Qualifying,2025-10-17,HARD,C1
+9879,1271,2025,USA,United States Grand Prix,Sprint Qualifying,Qualifying,2025-10-17,MEDIUM,C3
+9879,1271,2025,USA,United States Grand Prix,Sprint Qualifying,Qualifying,2025-10-17,SOFT,C4
+9883,1271,2025,USA,United States Grand Prix,Sprint,Race,2025-10-18,HARD,C1
+9883,1271,2025,USA,United States Grand Prix,Sprint,Race,2025-10-18,MEDIUM,C3
+9883,1271,2025,USA,United States Grand Prix,Sprint,Race,2025-10-18,SOFT,C4
+9884,1271,2025,USA,United States Grand Prix,Qualifying,Qualifying,2025-10-18,HARD,C1
+9884,1271,2025,USA,United States Grand Prix,Qualifying,Qualifying,2025-10-18,MEDIUM,C3
+9884,1271,2025,USA,United States Grand Prix,Qualifying,Qualifying,2025-10-18,SOFT,C4
+9888,1271,2025,USA,United States Grand Prix,Race,Race,2025-10-19,HARD,C1
+9888,1271,2025,USA,United States Grand Prix,Race,Race,2025-10-19,MEDIUM,C3
+9888,1271,2025,USA,United States Grand Prix,Race,Race,2025-10-19,SOFT,C4
+9870,1272,2025,MEX,Mexico City Grand Prix,Practice 1,Practice,2025-10-24,HARD,C2
+9870,1272,2025,MEX,Mexico City Grand Prix,Practice 1,Practice,2025-10-24,MEDIUM,C4
+9870,1272,2025,MEX,Mexico City Grand Prix,Practice 1,Practice,2025-10-24,SOFT,C5
+9871,1272,2025,MEX,Mexico City Grand Prix,Practice 2,Practice,2025-10-24,HARD,C2
+9871,1272,2025,MEX,Mexico City Grand Prix,Practice 2,Practice,2025-10-24,MEDIUM,C4
+9871,1272,2025,MEX,Mexico City Grand Prix,Practice 2,Practice,2025-10-24,SOFT,C5
+9872,1272,2025,MEX,Mexico City Grand Prix,Practice 3,Practice,2025-10-25,HARD,C2
+9872,1272,2025,MEX,Mexico City Grand Prix,Practice 3,Practice,2025-10-25,MEDIUM,C4
+9872,1272,2025,MEX,Mexico City Grand Prix,Practice 3,Practice,2025-10-25,SOFT,C5
+9873,1272,2025,MEX,Mexico City Grand Prix,Qualifying,Qualifying,2025-10-25,HARD,C2
+9873,1272,2025,MEX,Mexico City Grand Prix,Qualifying,Qualifying,2025-10-25,MEDIUM,C4
+9873,1272,2025,MEX,Mexico City Grand Prix,Qualifying,Qualifying,2025-10-25,SOFT,C5
+9877,1272,2025,MEX,Mexico City Grand Prix,Race,Race,2025-10-26,HARD,C2
+9877,1272,2025,MEX,Mexico City Grand Prix,Race,Race,2025-10-26,MEDIUM,C4
+9877,1272,2025,MEX,Mexico City Grand Prix,Race,Race,2025-10-26,SOFT,C5
+9859,1273,2025,BRA,São Paulo Grand Prix,Practice 1,Practice,2025-11-07,HARD,C2
+9859,1273,2025,BRA,São Paulo Grand Prix,Practice 1,Practice,2025-11-07,MEDIUM,C3
+9859,1273,2025,BRA,São Paulo Grand Prix,Practice 1,Practice,2025-11-07,SOFT,C4
+9860,1273,2025,BRA,São Paulo Grand Prix,Sprint Qualifying,Qualifying,2025-11-07,HARD,C2
+9860,1273,2025,BRA,São Paulo Grand Prix,Sprint Qualifying,Qualifying,2025-11-07,MEDIUM,C3
+9860,1273,2025,BRA,São Paulo Grand Prix,Sprint Qualifying,Qualifying,2025-11-07,SOFT,C4
+9864,1273,2025,BRA,São Paulo Grand Prix,Sprint,Race,2025-11-08,HARD,C2
+9864,1273,2025,BRA,São Paulo Grand Prix,Sprint,Race,2025-11-08,MEDIUM,C3
+9864,1273,2025,BRA,São Paulo Grand Prix,Sprint,Race,2025-11-08,SOFT,C4
+9865,1273,2025,BRA,São Paulo Grand Prix,Qualifying,Qualifying,2025-11-08,HARD,C2
+9865,1273,2025,BRA,São Paulo Grand Prix,Qualifying,Qualifying,2025-11-08,MEDIUM,C3
+9865,1273,2025,BRA,São Paulo Grand Prix,Qualifying,Qualifying,2025-11-08,SOFT,C4
+9869,1273,2025,BRA,São Paulo Grand Prix,Race,Race,2025-11-09,HARD,C2
+9869,1273,2025,BRA,São Paulo Grand Prix,Race,Race,2025-11-09,MEDIUM,C3
+9869,1273,2025,BRA,São Paulo Grand Prix,Race,Race,2025-11-09,SOFT,C4
+9851,1274,2025,USA,Las Vegas Grand Prix,Practice 1,Practice,2025-11-21,HARD,C3
+9851,1274,2025,USA,Las Vegas Grand Prix,Practice 1,Practice,2025-11-21,MEDIUM,C4
+9851,1274,2025,USA,Las Vegas Grand Prix,Practice 1,Practice,2025-11-21,SOFT,C5
+9852,1274,2025,USA,Las Vegas Grand Prix,Practice 2,Practice,2025-11-21,HARD,C3
+9852,1274,2025,USA,Las Vegas Grand Prix,Practice 2,Practice,2025-11-21,MEDIUM,C4
+9852,1274,2025,USA,Las Vegas Grand Prix,Practice 2,Practice,2025-11-21,SOFT,C5
+9853,1274,2025,USA,Las Vegas Grand Prix,Practice 3,Practice,2025-11-22,HARD,C3
+9853,1274,2025,USA,Las Vegas Grand Prix,Practice 3,Practice,2025-11-22,MEDIUM,C4
+9853,1274,2025,USA,Las Vegas Grand Prix,Practice 3,Practice,2025-11-22,SOFT,C5
+9854,1274,2025,USA,Las Vegas Grand Prix,Qualifying,Qualifying,2025-11-22,HARD,C3
+9854,1274,2025,USA,Las Vegas Grand Prix,Qualifying,Qualifying,2025-11-22,MEDIUM,C4
+9854,1274,2025,USA,Las Vegas Grand Prix,Qualifying,Qualifying,2025-11-22,SOFT,C5
+9858,1274,2025,USA,Las Vegas Grand Prix,Race,Race,2025-11-23,HARD,C3
+9858,1274,2025,USA,Las Vegas Grand Prix,Race,Race,2025-11-23,MEDIUM,C4
+9858,1274,2025,USA,Las Vegas Grand Prix,Race,Race,2025-11-23,SOFT,C5
+9840,1275,2025,QAT,Qatar Grand Prix,Practice 1,Practice,2025-11-28,HARD,C1
+9840,1275,2025,QAT,Qatar Grand Prix,Practice 1,Practice,2025-11-28,MEDIUM,C2
+9840,1275,2025,QAT,Qatar Grand Prix,Practice 1,Practice,2025-11-28,SOFT,C3
+9841,1275,2025,QAT,Qatar Grand Prix,Sprint Qualifying,Qualifying,2025-11-28,HARD,C1
+9841,1275,2025,QAT,Qatar Grand Prix,Sprint Qualifying,Qualifying,2025-11-28,MEDIUM,C2
+9841,1275,2025,QAT,Qatar Grand Prix,Sprint Qualifying,Qualifying,2025-11-28,SOFT,C3
+9845,1275,2025,QAT,Qatar Grand Prix,Sprint,Race,2025-11-29,HARD,C1
+9845,1275,2025,QAT,Qatar Grand Prix,Sprint,Race,2025-11-29,MEDIUM,C2
+9845,1275,2025,QAT,Qatar Grand Prix,Sprint,Race,2025-11-29,SOFT,C3
+9846,1275,2025,QAT,Qatar Grand Prix,Qualifying,Qualifying,2025-11-29,HARD,C1
+9846,1275,2025,QAT,Qatar Grand Prix,Qualifying,Qualifying,2025-11-29,MEDIUM,C2
+9846,1275,2025,QAT,Qatar Grand Prix,Qualifying,Qualifying,2025-11-29,SOFT,C3
+9850,1275,2025,QAT,Qatar Grand Prix,Race,Race,2025-11-30,HARD,C1
+9850,1275,2025,QAT,Qatar Grand Prix,Race,Race,2025-11-30,MEDIUM,C2
+9850,1275,2025,QAT,Qatar Grand Prix,Race,Race,2025-11-30,SOFT,C3
+9832,1276,2025,UAE,Abu Dhabi Grand Prix,Practice 1,Practice,2025-12-05,HARD,C3
+9832,1276,2025,UAE,Abu Dhabi Grand Prix,Practice 1,Practice,2025-12-05,MEDIUM,C4
+9832,1276,2025,UAE,Abu Dhabi Grand Prix,Practice 1,Practice,2025-12-05,SOFT,C5
+9833,1276,2025,UAE,Abu Dhabi Grand Prix,Practice 2,Practice,2025-12-05,HARD,C3
+9833,1276,2025,UAE,Abu Dhabi Grand Prix,Practice 2,Practice,2025-12-05,MEDIUM,C4
+9833,1276,2025,UAE,Abu Dhabi Grand Prix,Practice 2,Practice,2025-12-05,SOFT,C5
+9834,1276,2025,UAE,Abu Dhabi Grand Prix,Practice 3,Practice,2025-12-06,HARD,C3
+9834,1276,2025,UAE,Abu Dhabi Grand Prix,Practice 3,Practice,2025-12-06,MEDIUM,C4
+9834,1276,2025,UAE,Abu Dhabi Grand Prix,Practice 3,Practice,2025-12-06,SOFT,C5
+9835,1276,2025,UAE,Abu Dhabi Grand Prix,Qualifying,Qualifying,2025-12-06,HARD,C3
+9835,1276,2025,UAE,Abu Dhabi Grand Prix,Qualifying,Qualifying,2025-12-06,MEDIUM,C4
+9835,1276,2025,UAE,Abu Dhabi Grand Prix,Qualifying,Qualifying,2025-12-06,SOFT,C5
+9839,1276,2025,UAE,Abu Dhabi Grand Prix,Race,Race,2025-12-07,HARD,C3
+9839,1276,2025,UAE,Abu Dhabi Grand Prix,Race,Race,2025-12-07,MEDIUM,C4
+9839,1276,2025,UAE,Abu Dhabi Grand Prix,Race,Race,2025-12-07,SOFT,C5
+9940,1277,2025,GBR,British Grand Prix,Practice 1,Practice,2025-07-04,HARD,C2
+9940,1277,2025,GBR,British Grand Prix,Practice 1,Practice,2025-07-04,MEDIUM,C3
+9940,1277,2025,GBR,British Grand Prix,Practice 1,Practice,2025-07-04,SOFT,C4
+9941,1277,2025,GBR,British Grand Prix,Practice 2,Practice,2025-07-04,HARD,C2
+9941,1277,2025,GBR,British Grand Prix,Practice 2,Practice,2025-07-04,MEDIUM,C3
+9941,1277,2025,GBR,British Grand Prix,Practice 2,Practice,2025-07-04,SOFT,C4
+9942,1277,2025,GBR,British Grand Prix,Practice 3,Practice,2025-07-05,HARD,C2
+9942,1277,2025,GBR,British Grand Prix,Practice 3,Practice,2025-07-05,MEDIUM,C3
+9942,1277,2025,GBR,British Grand Prix,Practice 3,Practice,2025-07-05,SOFT,C4
+9943,1277,2025,GBR,British Grand Prix,Qualifying,Qualifying,2025-07-05,HARD,C2
+9943,1277,2025,GBR,British Grand Prix,Qualifying,Qualifying,2025-07-05,MEDIUM,C3
+9943,1277,2025,GBR,British Grand Prix,Qualifying,Qualifying,2025-07-05,SOFT,C4
+9947,1277,2025,GBR,British Grand Prix,Race,Race,2025-07-06,HARD,C2
+9947,1277,2025,GBR,British Grand Prix,Race,Race,2025-07-06,MEDIUM,C3
+9947,1277,2025,GBR,British Grand Prix,Race,Race,2025-07-06,SOFT,C4
+11227,1279,2026,AUS,Australian Grand Prix,Practice 1,Practice,2026-03-06,HARD,C3
+11227,1279,2026,AUS,Australian Grand Prix,Practice 1,Practice,2026-03-06,MEDIUM,C4
+11227,1279,2026,AUS,Australian Grand Prix,Practice 1,Practice,2026-03-06,SOFT,C5
+11228,1279,2026,AUS,Australian Grand Prix,Practice 2,Practice,2026-03-06,HARD,C3
+11228,1279,2026,AUS,Australian Grand Prix,Practice 2,Practice,2026-03-06,MEDIUM,C4
+11228,1279,2026,AUS,Australian Grand Prix,Practice 2,Practice,2026-03-06,SOFT,C5
+11229,1279,2026,AUS,Australian Grand Prix,Practice 3,Practice,2026-03-07,HARD,C3
+11229,1279,2026,AUS,Australian Grand Prix,Practice 3,Practice,2026-03-07,MEDIUM,C4
+11229,1279,2026,AUS,Australian Grand Prix,Practice 3,Practice,2026-03-07,SOFT,C5
+11230,1279,2026,AUS,Australian Grand Prix,Qualifying,Qualifying,2026-03-07,HARD,C3
+11230,1279,2026,AUS,Australian Grand Prix,Qualifying,Qualifying,2026-03-07,MEDIUM,C4
+11230,1279,2026,AUS,Australian Grand Prix,Qualifying,Qualifying,2026-03-07,SOFT,C5
+11234,1279,2026,AUS,Australian Grand Prix,Race,Race,2026-03-08,HARD,C3
+11234,1279,2026,AUS,Australian Grand Prix,Race,Race,2026-03-08,MEDIUM,C4
+11234,1279,2026,AUS,Australian Grand Prix,Race,Race,2026-03-08,SOFT,C5
+11235,1280,2026,CHN,Chinese Grand Prix,Practice 1,Practice,2026-03-13,HARD,C2
+11235,1280,2026,CHN,Chinese Grand Prix,Practice 1,Practice,2026-03-13,MEDIUM,C3
+11235,1280,2026,CHN,Chinese Grand Prix,Practice 1,Practice,2026-03-13,SOFT,C4
+11236,1280,2026,CHN,Chinese Grand Prix,Sprint Qualifying,Qualifying,2026-03-13,HARD,C2
+11236,1280,2026,CHN,Chinese Grand Prix,Sprint Qualifying,Qualifying,2026-03-13,MEDIUM,C3
+11236,1280,2026,CHN,Chinese Grand Prix,Sprint Qualifying,Qualifying,2026-03-13,SOFT,C4
+11240,1280,2026,CHN,Chinese Grand Prix,Sprint,Race,2026-03-14,HARD,C2
+11240,1280,2026,CHN,Chinese Grand Prix,Sprint,Race,2026-03-14,MEDIUM,C3
+11240,1280,2026,CHN,Chinese Grand Prix,Sprint,Race,2026-03-14,SOFT,C4
+11241,1280,2026,CHN,Chinese Grand Prix,Qualifying,Qualifying,2026-03-14,HARD,C2
+11241,1280,2026,CHN,Chinese Grand Prix,Qualifying,Qualifying,2026-03-14,MEDIUM,C3
+11241,1280,2026,CHN,Chinese Grand Prix,Qualifying,Qualifying,2026-03-14,SOFT,C4
+11245,1280,2026,CHN,Chinese Grand Prix,Race,Race,2026-03-15,HARD,C2
+11245,1280,2026,CHN,Chinese Grand Prix,Race,Race,2026-03-15,MEDIUM,C3
+11245,1280,2026,CHN,Chinese Grand Prix,Race,Race,2026-03-15,SOFT,C4
+11246,1281,2026,JPN,Japanese Grand Prix,Practice 1,Practice,2026-03-27,HARD,C1
+11246,1281,2026,JPN,Japanese Grand Prix,Practice 1,Practice,2026-03-27,MEDIUM,C2
+11246,1281,2026,JPN,Japanese Grand Prix,Practice 1,Practice,2026-03-27,SOFT,C3
+11247,1281,2026,JPN,Japanese Grand Prix,Practice 2,Practice,2026-03-27,HARD,C1
+11247,1281,2026,JPN,Japanese Grand Prix,Practice 2,Practice,2026-03-27,MEDIUM,C2
+11247,1281,2026,JPN,Japanese Grand Prix,Practice 2,Practice,2026-03-27,SOFT,C3
+11248,1281,2026,JPN,Japanese Grand Prix,Practice 3,Practice,2026-03-28,HARD,C1
+11248,1281,2026,JPN,Japanese Grand Prix,Practice 3,Practice,2026-03-28,MEDIUM,C2
+11248,1281,2026,JPN,Japanese Grand Prix,Practice 3,Practice,2026-03-28,SOFT,C3
+11249,1281,2026,JPN,Japanese Grand Prix,Qualifying,Qualifying,2026-03-28,HARD,C1
+11249,1281,2026,JPN,Japanese Grand Prix,Qualifying,Qualifying,2026-03-28,MEDIUM,C2
+11249,1281,2026,JPN,Japanese Grand Prix,Qualifying,Qualifying,2026-03-28,SOFT,C3
+11253,1281,2026,JPN,Japanese Grand Prix,Race,Race,2026-03-29,HARD,C1
+11253,1281,2026,JPN,Japanese Grand Prix,Race,Race,2026-03-29,MEDIUM,C2
+11253,1281,2026,JPN,Japanese Grand Prix,Race,Race,2026-03-29,SOFT,C3
+11270,1284,2026,USA,Miami Grand Prix,Practice 1,Practice,2026-05-01,HARD,C3
+11270,1284,2026,USA,Miami Grand Prix,Practice 1,Practice,2026-05-01,MEDIUM,C4
+11270,1284,2026,USA,Miami Grand Prix,Practice 1,Practice,2026-05-01,SOFT,C5
+11271,1284,2026,USA,Miami Grand Prix,Sprint Qualifying,Qualifying,2026-05-01,HARD,C3
+11271,1284,2026,USA,Miami Grand Prix,Sprint Qualifying,Qualifying,2026-05-01,MEDIUM,C4
+11271,1284,2026,USA,Miami Grand Prix,Sprint Qualifying,Qualifying,2026-05-01,SOFT,C5
+11275,1284,2026,USA,Miami Grand Prix,Sprint,Race,2026-05-02,HARD,C3
+11275,1284,2026,USA,Miami Grand Prix,Sprint,Race,2026-05-02,MEDIUM,C4
+11275,1284,2026,USA,Miami Grand Prix,Sprint,Race,2026-05-02,SOFT,C5
+11276,1284,2026,USA,Miami Grand Prix,Qualifying,Qualifying,2026-05-02,HARD,C3
+11276,1284,2026,USA,Miami Grand Prix,Qualifying,Qualifying,2026-05-02,MEDIUM,C4
+11276,1284,2026,USA,Miami Grand Prix,Qualifying,Qualifying,2026-05-02,SOFT,C5
+11280,1284,2026,USA,Miami Grand Prix,Race,Race,2026-05-03,HARD,C3
+11280,1284,2026,USA,Miami Grand Prix,Race,Race,2026-05-03,MEDIUM,C4
+11280,1284,2026,USA,Miami Grand Prix,Race,Race,2026-05-03,SOFT,C5
+11281,1285,2026,CAN,Canadian Grand Prix,Practice 1,Practice,2026-05-22,HARD,C3
+11281,1285,2026,CAN,Canadian Grand Prix,Practice 1,Practice,2026-05-22,MEDIUM,C4
+11281,1285,2026,CAN,Canadian Grand Prix,Practice 1,Practice,2026-05-22,SOFT,C5
+11282,1285,2026,CAN,Canadian Grand Prix,Sprint Qualifying,Qualifying,2026-05-22,HARD,C3
+11282,1285,2026,CAN,Canadian Grand Prix,Sprint Qualifying,Qualifying,2026-05-22,MEDIUM,C4
+11282,1285,2026,CAN,Canadian Grand Prix,Sprint Qualifying,Qualifying,2026-05-22,SOFT,C5
+11286,1285,2026,CAN,Canadian Grand Prix,Sprint,Race,2026-05-23,HARD,C3
+11286,1285,2026,CAN,Canadian Grand Prix,Sprint,Race,2026-05-23,MEDIUM,C4
+11286,1285,2026,CAN,Canadian Grand Prix,Sprint,Race,2026-05-23,SOFT,C5
+11287,1285,2026,CAN,Canadian Grand Prix,Qualifying,Qualifying,2026-05-23,HARD,C3
+11287,1285,2026,CAN,Canadian Grand Prix,Qualifying,Qualifying,2026-05-23,MEDIUM,C4
+11287,1285,2026,CAN,Canadian Grand Prix,Qualifying,Qualifying,2026-05-23,SOFT,C5
+11291,1285,2026,CAN,Canadian Grand Prix,Race,Race,2026-05-24,HARD,C3
+11291,1285,2026,CAN,Canadian Grand Prix,Race,Race,2026-05-24,MEDIUM,C4
+11291,1285,2026,CAN,Canadian Grand Prix,Race,Race,2026-05-24,SOFT,C5
+11292,1286,2026,MON,Monaco Grand Prix,Practice 1,Practice,2026-06-05,HARD,C3
+11292,1286,2026,MON,Monaco Grand Prix,Practice 1,Practice,2026-06-05,MEDIUM,C4
+11292,1286,2026,MON,Monaco Grand Prix,Practice 1,Practice,2026-06-05,SOFT,C5
+11293,1286,2026,MON,Monaco Grand Prix,Practice 2,Practice,2026-06-05,HARD,C3
+11293,1286,2026,MON,Monaco Grand Prix,Practice 2,Practice,2026-06-05,MEDIUM,C4
+11293,1286,2026,MON,Monaco Grand Prix,Practice 2,Practice,2026-06-05,SOFT,C5
+11294,1286,2026,MON,Monaco Grand Prix,Practice 3,Practice,2026-06-06,HARD,C3
+11294,1286,2026,MON,Monaco Grand Prix,Practice 3,Practice,2026-06-06,MEDIUM,C4
+11294,1286,2026,MON,Monaco Grand Prix,Practice 3,Practice,2026-06-06,SOFT,C5
+11295,1286,2026,MON,Monaco Grand Prix,Qualifying,Qualifying,2026-06-06,HARD,C3
+11295,1286,2026,MON,Monaco Grand Prix,Qualifying,Qualifying,2026-06-06,MEDIUM,C4
+11295,1286,2026,MON,Monaco Grand Prix,Qualifying,Qualifying,2026-06-06,SOFT,C5
+11299,1286,2026,MON,Monaco Grand Prix,Race,Race,2026-06-07,HARD,C3
+11299,1286,2026,MON,Monaco Grand Prix,Race,Race,2026-06-07,MEDIUM,C4
+11299,1286,2026,MON,Monaco Grand Prix,Race,Race,2026-06-07,SOFT,C5
+11300,1287,2026,ESP,Barcelona Grand Prix,Practice 1,Practice,2026-06-12,HARD,C2
+11300,1287,2026,ESP,Barcelona Grand Prix,Practice 1,Practice,2026-06-12,MEDIUM,C3
+11300,1287,2026,ESP,Barcelona Grand Prix,Practice 1,Practice,2026-06-12,SOFT,C4
+11301,1287,2026,ESP,Barcelona Grand Prix,Practice 2,Practice,2026-06-12,HARD,C2
+11301,1287,2026,ESP,Barcelona Grand Prix,Practice 2,Practice,2026-06-12,MEDIUM,C3
+11301,1287,2026,ESP,Barcelona Grand Prix,Practice 2,Practice,2026-06-12,SOFT,C4
+11302,1287,2026,ESP,Barcelona Grand Prix,Practice 3,Practice,2026-06-13,HARD,C2
+11302,1287,2026,ESP,Barcelona Grand Prix,Practice 3,Practice,2026-06-13,MEDIUM,C3
+11302,1287,2026,ESP,Barcelona Grand Prix,Practice 3,Practice,2026-06-13,SOFT,C4
+11303,1287,2026,ESP,Barcelona Grand Prix,Qualifying,Qualifying,2026-06-13,HARD,C2
+11303,1287,2026,ESP,Barcelona Grand Prix,Qualifying,Qualifying,2026-06-13,MEDIUM,C3
+11303,1287,2026,ESP,Barcelona Grand Prix,Qualifying,Qualifying,2026-06-13,SOFT,C4
+11307,1287,2026,ESP,Barcelona Grand Prix,Race,Race,2026-06-14,HARD,C2
+11307,1287,2026,ESP,Barcelona Grand Prix,Race,Race,2026-06-14,MEDIUM,C3
+11307,1287,2026,ESP,Barcelona Grand Prix,Race,Race,2026-06-14,SOFT,C4
